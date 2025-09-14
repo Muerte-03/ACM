@@ -496,7 +496,7 @@
                 <Russian>%1 начал выполнение действия: Запрокидывание головы — подъём подбородка</Russian>
                 <Ukrainian>%1 почав виконання дії: Запрокидування голови — підняття підборіддя</Ukrainian>
                 <Korean>%1 이 목 기울임-턱 들어올리는 중</Korean>
-                <Spanish>% 1 empezo inclinación de cabeza y elevación de mentón</Spanish>
+                <Spanish>%1 empezo inclinación de cabeza y elevación de mentón</Spanish>
             </Key>
             <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionHint">
                 <English>Performing head tilt-chin lift&lt;br/&gt;Stay close to the patient</English>
@@ -564,7 +564,7 @@
                 <Russian>%1 проверил дыхательные пути: %2</Russian>
                 <Ukrainian>%1 перевірив дихальні шляхи: %2</Ukrainian>
                 <Korean>%1 이 기도 확인: %2</Korean>
-                <Spanish>% 1 reviso las vias aereas: % 2</Spanish>
+                <Spanish>%1 reviso las vias aereas: %2</Spanish>
             </Key>
             <Key ID="STR_ACM_Airway_CheckAirway_AirwayIsClear">
                 <English>Airway is clear</English>
@@ -641,7 +641,7 @@
                 <Russian>%1 вставлено</Russian>
                 <Ukrainian>%1 вставлено</Ukrainian>
                 <Korean>%1 삽입 완료</Korean>
-                <Spanish>% 1 Insertado</Spanish>
+                <Spanish>%1 Insertado</Spanish>
             </Key>
             <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Mild">
                 <English>Airway mildly collapsed</English>
@@ -1034,7 +1034,7 @@
                 <Russian>Не удалось ввести %1</Russian>
                 <Ukrainian>Не вдалося ввести %1</Ukrainian>
                 <Korean>%1 삽입 실패</Korean>
-                <Spanish>Fallo para insertar % 1</Spanish>
+                <Spanish>Fallo para insertar %1</Spanish>
             </Key>
             <Key ID="STR_ACM_Airway_Adjunct_Failed_Awake">
                 <English>Patient is awake</English>
@@ -1072,7 +1072,7 @@
                 <Russian>%1 вставил %2</Russian>
                 <Ukrainian>%1 вставив %2</Ukrainian>
                 <Korean>%1 이 %2 삽입함</Korean>
-                <Spanish>% 1 a insertado %2</Spanish>
+                <Spanish>%1 a insertado %2</Spanish>
             </Key>
         </Container>
         <Container name="// Head Turning Action //">
@@ -1162,7 +1162,7 @@
                 <Russian>%1 выполнил поворот головы</Russian>
                 <Ukrainian>%1 виконав поворот голови</Ukrainian>
                 <Korean>%1 이 머리 돌리기 수행함</Korean>
-                <Spanish>% 1 realizo rotacion de cabeza</Spanish>
+                <Spanish>%1 realizo rotacion de cabeza</Spanish>
             </Key>
         </Container>
         <Container name="// Recovery Position Action //">
@@ -1241,7 +1241,7 @@
                 <Russian>%1 придал устойчивое боковое положение</Russian>
                 <Ukrainian>%1 надав стабільне бокове положення</Ukrainian>
                 <Korean>%1 회복자세 완료</Korean>
-                <Spanish>% 1 establecio posicion lateral de seguridad</Spanish>
+                <Spanish>%1 establecio posicion lateral de seguridad</Spanish>
             </Key>
             <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled">
                 <English>Cancelled recovery position</English>
@@ -1263,7 +1263,7 @@
                 <Russian>%1 отменил придание устойчивого бокового положения</Russian>
                 <Ukrainian>%1 скасував надання стабільного бокового положення</Ukrainian>
                 <Korean>%1 회복자세 취소함</Korean>
-                <Spanish>% 1 cancelo posicion lateral de seguridad</Spanish>
+                <Spanish>%1 cancelo posicion lateral de seguridad</Spanish>
             </Key>
         </Container>
         <Container name="// Surgical Airway Action //">
@@ -1297,7 +1297,7 @@
                 <Russian>%1 выполнил хирургическое обеспечение дыхательных путей</Russian>
                 <Ukrainian>%1 виконав хірургічне забезпечення дихальних шляхів</Ukrainian>
                 <Korean>%1 수술적 기도 (Surgical Airway) 확보 완료</Korean>
-                <Spanish>% 1 establecio vias aéreas quirurgicas</Spanish>
+                <Spanish>%1 establecio vias aéreas quirurgicas</Spanish>
             </Key>
             <Key ID="STR_ACM_Airway_SurgicalAirway_AlreadyInProgress">
                 <English>Surgical airway already in progress</English>
@@ -1329,7 +1329,7 @@
                 <Russian>%1 отменил хирургическое обеспечение дыхательных путей</Russian>
                 <Ukrainian>%1 скасував хірургічне забезпечення дихальних шляхів</Ukrainian>
                 <Korean>%1 수술적 기도 처치 (Surgical Airway) 취소함</Korean>
-                <Spanish>% 1 cancelo vias aéreas quirurgicas</Spanish>
+                <Spanish>%1 cancelo vias aéreas quirurgicas</Spanish>
             </Key>
             <Key ID="STR_ACM_Airway_SurgicalAirway_Scalpel">
                 <English>Scalpel</English>
@@ -1531,7 +1531,7 @@
                 <Russian>%1 зафиксировал хирургический ремень на шее</Russian>
                 <Ukrainian>%1 зафіксував хірургічний ремінь на шиї</Ukrainian>
                 <Korean>%1 Surgical Airway Neck Strap 고정 완료</Korean>
-                <Spanish>% 1 aseguro cinta del cuello</Spanish>
+                <Spanish>%1 aseguro cinta del cuello</Spanish>
             </Key>
         </Container>
         <Container name="// Surgical Airway Stitch Action //">
@@ -1565,7 +1565,7 @@
                 <Russian>%1 зашил разрез дыхательных путей</Russian>
                 <Ukrainian>%1 зашив розріз дихальних шляхів</Ukrainian>
                 <Korean>%1 외과적 기도(Surgical Airway) 절개부 봉합 완료</Korean>
-                <Spanish>% 1 suturo la incicion en las vias aéreas</Spanish>
+                <Spanish>%1 suturo la incicion en las vias aéreas</Spanish>
             </Key>
         </Container>
         <Container name="// GUI //">

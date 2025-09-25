@@ -7,6 +7,7 @@
             <Russian>ACM: ХБРЯ</Russian>
             <Ukrainian>ACM: ХБРЯ</Ukrainian>
             <Korean>ACM: CBRN</Korean>
+            <Spanish>QBRN</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_Category_Autoinjectors">
             <English>Autoinjectors</English>
@@ -14,6 +15,7 @@
             <Russian>Автоинъекторы</Russian>
             <Ukrainian>Автоінʼєктори</Ukrainian>
             <Korean>자동주사기</Korean>
+            <Spanish>Autoinjectores</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_Category_Chemical">
             <English>Chemical</English>
@@ -21,6 +23,7 @@
             <Russian>Химическое</Russian>
             <Ukrainian>Хімічне</Ukrainian>
             <Korean>화학</Korean>
+            <Spanish>Quimico</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_Category_Chemical_CS">
             <English>Chemical - CS Gas</English>
@@ -28,6 +31,7 @@
             <Russian>Химическое – CS газ</Russian>
             <Ukrainian>Хімічне – CS газ</Ukrainian>
             <Korean>화학 - CS 가스</Korean>
+            <Spanish>Quimico - Gas CS</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_Category_Chemical_Chlorine">
             <English>Chemical - Chlorine Gas</English>
@@ -35,6 +39,7 @@
             <Russian>Химическое – хлорный газ</Russian>
             <Ukrainian>Хімічне – хлорний газ</Ukrainian>
             <Korean>화학 - 염소 가스</Korean>
+            <Spanish>Quimico - Gas Cloro</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_Category_Chemical_Sarin">
             <English>Chemical - Sarin Gas</English>
@@ -42,6 +47,7 @@
             <Russian>Химическое – зарин</Russian>
             <Ukrainian>Хімічне – зарин</Ukrainian>
             <Korean>화학 - 사린 가스</Korean>
+            <Spanish>Quimico - Gas Sarin</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_Category_Chemical_Lewisite">
             <English>Chemical - Lewisite</English>
@@ -49,6 +55,7 @@
             <Russian>Химическое – люизит</Russian>
             <Ukrainian>Хімічне – люїзит</Ukrainian>
             <Korean>화학 - 루이사이트</Korean>
+            <Spanish>Quimico - Gas Lewisite</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_Enable">
             <English>Enable CBRN</English>
@@ -56,6 +63,7 @@
             <Russian>Включить ХБРЯ</Russian>
             <Ukrainian>Увімкнути ХБРЯ</Ukrainian>
             <Korean>CBRN 활성화</Korean>
+            <Spanish>Habilitar QBRN</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_Enable_Desc">
             <English>Enable CBRN threat functionality</English>
@@ -70,6 +78,7 @@
             <Russian>Список противогазов</Russian>
             <Ukrainian>Список протигазів</Ukrainian>
             <Korean>방독면 목록</Korean>
+            <Spanish>Lista de mascaras de gas</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomPPEList_GasMask_Desc">
             <English>List of goggles (facewear)/helmets that are gas masks (or equivalent). Each entry should be a goggles/helmet classname and should be seperated with a comma</English>
@@ -84,6 +93,7 @@
             <Russian>Список ХБРЯ-костюмов</Russian>
             <Ukrainian>Список костюмів ХБРЯ</Ukrainian>
             <Korean>CBRN 슈트 목록</Korean>
+            <Spanish>Lista de trajes QBRN</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomPPEList_Suit_Desc">
             <English>List of uniforms that are CBRN suits. Each entry should be a uniform classname and should be seperated with a comma</English>
@@ -98,6 +108,7 @@
             <Russian>Список защищённых ХБРЯ машин</Russian>
             <Ukrainian>Список захищених ХБРЯ машин</Ukrainian>
             <Korean>CBRN 보호 차량 목록</Korean>
+            <Spanish>Lista de veiculos protejidos contra QBRN</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomVehicleList_CBRN_Desc">
             <English>List of vehicles that are CBRN protected (overpressure capability). Each entry should be a vehicle classname and should be seperated with a comma</English>
@@ -112,6 +123,7 @@
             <Russian>Список герметичных машин</Russian>
             <Ukrainian>Список герметичних машин</Ukrainian>
             <Korean>밀폐 차량 목록</Korean>
+            <Spanish>Lista de veiculos sellados</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CustomVehicleList_Sealed_Desc">
             <English>List of vehicles that are sealed. Each entry should be a vehicle classname and should be seperated with a comma</English>
@@ -126,6 +138,7 @@
             <Russian>Разрешить автоинъектор ATNA</Russian>
             <Ukrainian>Дозволити автоінʼєктор ATNA</Ukrainian>
             <Korean>ATNA 자동주사기 사용 허용</Korean>
+            <Spanish>Permitir ATNA autoinjectable</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_Allow_ATNAAutoinjector_Desc">
             <English>Training level required to use ATNA Autoinjector</English>
@@ -133,6 +146,7 @@
             <Russian>Уровень подготовки, необходимый для использования автоинъектора ATNA</Russian>
             <Ukrainian>Рівень підготовки, необхідний для використання автоінʼєктора ATNA</Ukrainian>
             <Korean>ATNA 자동주사기 사용을 위한 훈련 레벨</Korean>
+            <Spanish>Nivel de entrenamiento necesario para usar el ATNA autoinjectable</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_Allow_MidazolamAutoinjector">
             <English>Allow Midazolam Autoinjector</English>
@@ -140,6 +154,7 @@
             <Russian>Разрешить автоинъектор мидазолама</Russian>
             <Ukrainian>Дозволити автоінʼєктор мідазоламу</Ukrainian>
             <Korean>미다졸람 자동주사기 사용 허용</Korean>
+            <Spanish>Permitir Midazolam autoinjetor</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_Allow_MidazolamAutoinjector_Desc">
             <English>Training level required to use Midazolam Autoinjector</English>
@@ -147,6 +162,7 @@
             <Russian>Уровень подготовки, необходимый для использования автоинъектора мидазолама</Russian>
             <Ukrainian>Рівень підготовки, необхідний для використання автоінʼєктора мідазоламу</Ukrainian>
             <Korean>미다졸람 자동주사기 사용을 위한 훈련 레벨</Korean>
+            <Spanish>Nivel de entrenamiento necesario para usar el Midazolam autoinjectable</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_ChemicalAffectAI">
             <English>Chemical Agents Affect AI</English>
@@ -154,6 +170,7 @@
             <Russian>Воздействие химических агентов на ИИ</Russian>
             <Ukrainian>Вплив хімічних агентів на ШІ</Ukrainian>
             <Korean>화학제 AI 영향</Korean>
+            <Spanish>Agentes quimicos afectan a la IA</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_ChemicalAffectAI_Desc">
             <English>Sets whether AI will be affected by chemical agent exposure</English>
@@ -161,6 +178,7 @@
             <Russian>Определяет, будет ли ИИ подвержен воздействию химических агентов</Russian>
             <Ukrainian>Визначає, чи буде ШІ піддаватися впливу хімічних агентів</Ukrainian>
             <Korean>AI가 화학제 노출 영향을 받을지 설정</Korean>
+            <Spanish>Define si la IA sera afectada por agentes quimicos</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_ChemicalAffectAISkill">
             <English>Chemical Agents Affect AI Skill</English>
@@ -168,6 +186,7 @@
             <Russian>Влияние химических агентов на навыки ИИ</Russian>
             <Ukrainian>Вплив хімічних агентів на навички ШІ</Ukrainian>
             <Korean>화학제 AI 스킬 영향</Korean>
+            <Spanish>Agentes quimicos afectal la habilidad de la IA</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_ChemicalAffectAISkill_Desc">
             <English>Sets whether AI skill will be affected by chemical agent exposure</English>
@@ -175,6 +194,7 @@
             <Russian>Определяет, будут ли навыки ИИ снижаться под воздействием химических агентов</Russian>
             <Ukrainian>Визначає, чи будуть навички ШІ знижуватися під впливом хімічних агентів</Ukrainian>
             <Korean>AI 스킬이 화학제 노출 영향을 받을지 설정</Korean>
+            <Spanish>Define si la abilidad de la IA sera afetada por agentes quimicos</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CSCauseBlindness">
             <English>CS Exposure Cause Blindness</English>
@@ -182,6 +202,7 @@
             <Russian>CS вызывает слепоту</Russian>
             <Ukrainian>CS викликає сліпоту</Ukrainian>
             <Korean>CS 노출로 인한 실명</Korean>
+            <Spanish>Exposicion a CS causa cegera</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_CSCauseBlindness_Desc">
             <English>Sets whether CS gas exposure causes blindness</English>
@@ -189,6 +210,7 @@
             <Russian>Определяет, вызывает ли CS газ слепоту</Russian>
             <Ukrainian>Визначає, чи викликає CS газ сліпоту</Ukrainian>
             <Korean>CS 가스 노출로 실명 여부 설정</Korean>
+            <Spanish>Define si la exposicion al gas CS causa cegera</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_ChlorineCauseBlindness">
             <English>Chlorine Exposure Cause Blindness</English>
@@ -196,6 +218,7 @@
             <Russian>Хлор вызывает слепоту</Russian>
             <Ukrainian>Хлор викликає сліпоту</Ukrainian>
             <Korean>염소 노출로 인한 실명</Korean>
+            <Spanish>Expesicion a Cloro causa cegera</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_ChlorineCauseBlindness_Desc">
             <English>Sets whether chlorine gas exposure causes blindness</English>
@@ -203,6 +226,7 @@
             <Russian>Определяет, вызывает ли хлорный газ слепоту</Russian>
             <Ukrainian>Визначає, чи викликає хлорний газ сліпоту</Ukrainian>
             <Korean>염소 가스 노출로 실명 여부 설정</Korean>
+            <Spanish>Define si la exposicion a gas Cloro causa cegera</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_SarinIsColorless">
             <English>Colorless Sarin Gas</English>
@@ -210,6 +234,7 @@
             <Russian>Бесцветный зарин</Russian>
             <Ukrainian>Безбарвний зарин</Ukrainian>
             <Korean>무색 사린 가스</Korean>
+            <Spanish>Gas Sarin incoloro</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_SarinIsColorless_Desc">
             <English>Sets whether sarin gas should be invisible</English>
@@ -217,6 +242,7 @@
             <Russian>Определяет, должен ли зарин быть невидимым</Russian>
             <Ukrainian>Визначає, чи має зарин бути невидимим</Ukrainian>
             <Korean>사린 가스가 눈에 보이지 않도록 설정</Korean>
+            <Spanish>Define si el gas sarin sera invisible</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_LewisiteCauseBlindness">
             <English>Lewisite Exposure Cause Blindness</English>
@@ -224,6 +250,7 @@
             <Russian>Люизит вызывает слепоту</Russian>
             <Ukrainian>Люїзит викликає сліпоту</Ukrainian>
             <Korean>루이사이트 노출로 인한 실명</Korean>
+            <Spanish>Exposicion a Lewisite causa cegera</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_LewisiteCauseBlindness_Desc">
             <English>Sets whether lewisite exposure causes blindness</English>
@@ -231,6 +258,7 @@
             <Russian>Определяет, вызывает ли люизит слепоту</Russian>
             <Ukrainian>Визначає, чи викликає люїзит сліпоту</Ukrainian>
             <Korean>루이사이트 노출로 실명 여부 설정</Korean>
+            <Spanish>Define si la exposicion al gas Lewisite causa cegera</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_LewisiteIsColorless">
             <English>Colorless Lewisite</English>
@@ -238,6 +266,7 @@
             <Russian>Бесцветный люизит</Russian>
             <Ukrainian>Безбарвний люїзит</Ukrainian>
             <Korean>무색 루이사이트</Korean>
+            <Spanish>Gas Lewisite incoloro</Spanish>
         </Key>
         <Key ID="STR_ACM_CBRN_SETTING_LewisiteIsColorless_Desc">
             <English>Sets whether lewisite should be invisible</English>
@@ -245,6 +274,7 @@
             <Russian>Определяет, должен ли люизит быть невидимым</Russian>
             <Ukrainian>Визначає, чи має люїзит бути невидимим</Ukrainian>
             <Korean>루이사이트가 눈에 보이지 않도록 설정</Korean>
+            <Spanish>Define si el gas lewisite sera invisible</Spanish>
         </Key>
         <Container name="// Hazards //">
             <Key ID="STR_ACM_CBRN_Chemical_Placebo">
@@ -253,6 +283,7 @@
                 <Russian>Плацебо</Russian>
                 <Ukrainian>Плацебо</Ukrainian>
                 <Korean>플라세보 (Placebo)</Korean>
+                <Spanish>Placebo</Spanish>
             </Key>
             <Key ID="STR_ACM_CBRN_Chemical_CS">
                 <English>CS Gas</English>
@@ -260,6 +291,7 @@
                 <Russian>CS газ</Russian>
                 <Ukrainian>CS газ</Ukrainian>
                 <Korean>CS 가스 (CS Gas)</Korean>
+                <Spanish>Gas CS</Spanish>
             </Key>
             <Key ID="STR_ACM_CBRN_Chemical_Chlorine">
                 <English>Chlorine Gas</English>
@@ -267,6 +299,7 @@
                 <Russian>Хлорный газ</Russian>
                 <Ukrainian>Хлорний газ</Ukrainian>
                 <Korean>염소 가스 (Chlorine Gas)</Korean>
+                <Spanish>Gas Cloro</Spanish>
             </Key>
             <Key ID="STR_ACM_CBRN_Chemical_Sarin">
                 <English>Sarin Gas</English>
@@ -274,6 +307,7 @@
                 <Russian>Зарин</Russian>
                 <Ukrainian>Зарин</Ukrainian>
                 <Korean>사린 가스 (Sarin Gas)</Korean>
+                <Spanish>Gas Sarin</Spanish>
             </Key>
             <Key ID="STR_ACM_CBRN_Chemical_Lewisite">
                 <English>Lewisite</English>
@@ -281,6 +315,7 @@
                 <Russian>Люизит</Russian>
                 <Ukrainian>Люїзит</Ukrainian>
                 <Korean>루이사이트 (Lewisite)</Korean>
+                <Spanish>Lewiste</Spanish>
             </Key>
         </Container>
         <Container name="// Items //">
@@ -290,6 +325,7 @@
                 <Russian>Автоинъектор ATNA</Russian>
                 <Ukrainian>Автоінʼєктор ATNA</Ukrainian>
                 <Korean>ATNA 자동주사기 (ATNA Autoinjector)</Korean>
+                <Spanish>ATNA Autoinjectable</Spanish>
             </Key>
             <Key ID="STR_ACM_CBRN_Autoinjector_ATNA_Desc">
                 <English>Antidote Treatment Nerve Agent Autoinjector, used to treat nerve agent exposure</English>

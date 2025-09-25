@@ -10,6 +10,7 @@
             <Russian>ACM: Кровообращение</Russian>
             <Ukrainian>ACM: Кровообіг</Ukrainian>
             <Korean>ACM: 순환 (Circulation)</Korean>
+            <Spanish>ACM: Circulacion</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_Coagulation">
             <English>Coagulation</English>
@@ -20,6 +21,7 @@
             <Russian>Коагуляция</Russian>
             <Ukrainian>Коагуляція</Ukrainian>
             <Korean>응고 (Coagulation)</Korean>
+            <Spanish>Coagulacion</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_CardiacArrest">
             <English>Cardiac Arrest</English>
@@ -30,6 +32,7 @@
             <Russian>Остановка сердца</Russian>
             <Ukrainian>Зупинка серця</Ukrainian>
             <Korean>심정지 (Cardiac Arrest)</Korean>
+            <Spanish>Para Cardiaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_Defibrillator">
             <English>Defibrillator</English>
@@ -40,6 +43,7 @@
             <Russian>Дефибриллятор</Russian>
             <Ukrainian>Дефібрилятор</Ukrainian>
             <Korean>제세동기 (Defibrillator)</Korean>
+            <Spanish>Desfibrilador</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_CPR">
             <English>CPR</English>
@@ -50,6 +54,7 @@
             <Russian>СЛР</Russian>
             <Ukrainian>СЛР</Ukrainian>
             <Korean>심폐소생술 (CPR)</Korean>
+            <Spanish>RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_IV_IO">
             <English>IV/IO</English>
@@ -60,6 +65,7 @@
             <Russian>Венозный/внутрикостный доступ (IV/IO)</Russian>
             <Ukrainian>Венозний/внутрішньокістковий доступ (IV/IO)</Ukrainian>
             <Korean>정맥/골내 주사 (IV/IO)</Korean>
+            <Spanish>IV/IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_Medication">
             <English>Medication</English>
@@ -67,6 +73,7 @@
             <Russian>Медикаменты</Russian>
             <Ukrainian>Медикаменти</Ukrainian>
             <Korean>투약</Korean>
+            <Spanish>Medcamentos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_BloodTypes">
             <English>Blood Types</English>
@@ -77,6 +84,7 @@
             <Russian>Группы крови</Russian>
             <Ukrainian>Групи крові</Ukrainian>
             <Korean>혈액형</Korean>
+            <Spanish>Tipos de sangre</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CardiacArrestBleedRate">
             <English>Cardiac Arrest Bleed Rate</English>
@@ -107,6 +115,7 @@
             <Russian>Включить свёртывание</Russian>
             <Ukrainian>Увімкнути згортання</Ukrainian>
             <Korean>응고 활성화</Korean>
+            <Spanish>Habilitar coagulacion</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CoagulationClotting_Desc">
             <English>Sets whether clotting is enabled</English>
@@ -127,6 +136,7 @@
             <Russian>Свёртывание для ИИ</Russian>
             <Ukrainian>Згортання для ШІ</Ukrainian>
             <Korean>AI 응고 허용</Korean>
+            <Spanish>Coagulacion para IA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CoagulationClottingAffectAI_Desc">
             <English>Sets whether clotting is allowed for AI</English>

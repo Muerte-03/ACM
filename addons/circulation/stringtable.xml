@@ -126,6 +126,7 @@
             <Russian>Задаёт, включено ли свёртывание</Russian>
             <Ukrainian>Визначає, чи ввімкнено згортання</Ukrainian>
             <Korean>응고 기능을 사용할지 설정합니다.</Korean>
+            <Spanish>Define si la coagulacion esta activa</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CoagulationClottingAffectAI">
             <English>Clotting for AI</English>
@@ -147,6 +148,7 @@
             <Russian>Задаёт, разрешено ли свёртывание для ИИ</Russian>
             <Ukrainian>Визначає, чи дозволено згортання для ШІ</Ukrainian>
             <Korean>AI에게 응고를 허용할지 설정합니다.</Korean>
+            <Spanish>Define si la coaglacion esta permitida en IA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CardiacArrestChance">
             <English>Critical Damage Cardiac Arrest Chance</English>
@@ -217,6 +219,7 @@
             <Russian>Разрешить AED</Russian>
             <Ukrainian>Дозволити AED</Ukrainian>
             <Korean>AED 허용</Korean>
+            <Spanish>Permitir DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_AED_Desc">
             <English>Training level required to use AED</English>
@@ -227,6 +230,7 @@
             <Russian>Уровень подготовки, необходимый для использования AED</Russian>
             <Ukrainian>Рівень підготовки, необхідний для використання AED</Ukrainian>
             <Korean>AED 사용에 필요한 훈련 수준을 설정합니다.</Korean>
+            <Spanish>Nivel de entrenamiento necesario para usar el DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_AEDDistanceLimit">
             <English>AED Distance Limit</English>
@@ -237,6 +241,7 @@
             <Russian>Лимит расстояния AED</Russian>
             <Ukrainian>Обмеження відстані AED</Ukrainian>
             <Korean>AED 거리 제한</Korean>
+            <Spanish>Limite de distancia de DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_AEDDistanceLimit_Desc">
             <English>Distance over which the AED will disconnect itself from the patient</English>
@@ -247,6 +252,7 @@
             <Russian>Дистанция, на которой AED отсоединится от пациента</Russian>
             <Ukrainian>Відстань, на якій AED відʼєднається від пацієнта</Ukrainian>
             <Korean>AED가 환자와 자동으로 연결이 끊어지는 거리 한계를 설정합니다.</Korean>
+            <Spanish>Distancia desde cual el DEA se desconectara del paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CPREffectiveness">
             <English>CPR Effectiveness Multiplier</English>
@@ -257,6 +263,7 @@
             <Russian>Множитель эффективности СЛР</Russian>
             <Ukrainian>Множник ефективності СЛР</Ukrainian>
             <Korean>CPR 효과 배수</Korean>
+            <Spanish>Multiplicador de eficiencia de RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CPREffectiveness_Desc">
             <English>Sets overall CPR effectiveness</English>
@@ -277,6 +284,7 @@
             <Russian>Включить осложнения IV</Russian>
             <Ukrainian>Увімкнути ускладнення IV</Ukrainian>
             <Korean>IV 합병증 활성화</Korean>
+            <Spanish>Habilitar complicaciones con IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_IVComplications_Desc">
             <English>Sets whether IVs can get complications if inserted on damaged limbs</English>
@@ -297,6 +305,7 @@
             <Russian>Включить прогрессирование осложнений IV</Russian>
             <Ukrainian>Увімкнути прогресування ускладнень IV</Ukrainian>
             <Korean>IV 합병증 악화 활성화</Korean>
+            <Spanish>Deterioracia de complicaciones de IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_IVComplicationsDeteriorate_Desc">
             <English>Sets whether IVs with complications can deteriorate during use, or deteriorate into a complication if one isn't already present</English>
@@ -317,6 +326,7 @@
             <Russian>Разрешить IV</Russian>
             <Ukrainian>Дозволити IV</Ukrainian>
             <Korean>IV 허용</Korean>
+            <Spanish>Permitir IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_IV_Desc">
             <English>Training level required to insert IVs</English>
@@ -327,6 +337,7 @@
             <Russian>Уровень подготовки для установки IV</Russian>
             <Ukrainian>Рівень підготовки для встановлення IV</Ukrainian>
             <Korean>IV(정맥주사) 삽입에 필요한 훈련 수준을 설정합니다.</Korean>
+            <Spanish>Nivel de entrenamiento necesario para insertar IVs</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_IO">
             <English>Allow IO</English>
@@ -337,6 +348,7 @@
             <Russian>Разрешить IO</Russian>
             <Ukrainian>Дозволити IO</Ukrainian>
             <Korean>IO 허용</Korean>
+            <Spanish>Permitir IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_IO_Desc">
             <English>Training level required to insert IOs</English>
@@ -347,6 +359,7 @@
             <Russian>Уровень подготовки для установки IO</Russian>
             <Ukrainian>Рівень підготовки для встановлення IO</Ukrainian>
             <Korean>IO(골내주사) 삽입에 필요한 훈련 수준을 설정합니다.</Korean>
+            <Spanish>Nivel de entrenamento necesario para insertar IOs</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IV_16">
             <English>16g IV Time</English>
@@ -357,6 +370,7 @@
             <Russian>Время установки IV 16G</Russian>
             <Ukrainian>Час встановлення IV 16G</Ukrainian>
             <Korean>16g IV 시간</Korean>
+            <Spanish>Tiempo para V 16g</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IV_16_Desc">
             <English>Time to insert 16g IV</English>
@@ -367,6 +381,7 @@
             <Russian>Время на установку IV 16G</Russian>
             <Ukrainian>Час на встановлення IV 16G</Ukrainian>
             <Korean>16g IV 삽입에 걸리는 시간을 설정합니다.</Korean>
+            <Spanish>Tiempo para insertar una IV 16g</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IV_14">
             <English>14g IV Time</English>
@@ -377,6 +392,7 @@
             <Russian>Время установки IV 14G</Russian>
             <Ukrainian>Час встановлення IV 14G</Ukrainian>
             <Korean>14g IV 시간</Korean>
+            <Spanish>Tiempo para IV 14g</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IV_14_Desc">
             <English>Time to insert 14g IV</English>
@@ -387,6 +403,7 @@
             <Russian>Время на установку IV 14G</Russian>
             <Ukrainian>Час на встановлення IV 14G</Ukrainian>
             <Korean>14g IV 삽입에 걸리는 시간을 설정합니다.</Korean>
+            <Spanish>Tiempo para insertar una IV 14g</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IO_EZ">
             <English>EZ-IO Time</English>
@@ -397,6 +414,7 @@
             <Russian>Время установки EZ-IO</Russian>
             <Ukrainian>Час встановлення EZ-IO</Ukrainian>
             <Korean>EZ-IO 시간</Korean>
+            <Spanish>Tiempo para EZ-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IO_EZ_Desc">
             <English>Time to insert EZ-IO</English>
@@ -407,6 +425,7 @@
             <Russian>Время на установку EZ-IO</Russian>
             <Ukrainian>Час на встановлення EZ-IO</Ukrainian>
             <Korean>EZ-IO 삽입에 걸리는 시간을 설정합니다.</Korean>
+            <Spanish>Tiempo para insertar EZ-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IO_FAST1">
             <English>FAST1 IO Time</English>
@@ -417,6 +436,7 @@
             <Russian>Время установки FAST1 IO</Russian>
             <Ukrainian>Час встановлення FAST1 IO</Ukrainian>
             <Korean>FAST1 IO 시간</Korean>
+            <Spanish>Tiempo para FAST IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IO_FAST1_Desc">
             <English>Time to insert FAST1 IO</English>
@@ -427,6 +447,7 @@
             <Russian>Время на установку FAST1 IO</Russian>
             <Ukrainian>Час на встановлення FAST1 IO</Ukrainian>
             <Korean>FAST1 IO 삽입에 걸리는 시간을 설정합니다.</Korean>
+            <Spanish>Tiempo para insertar FAST IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_SelfIV">
             <English>Allow Self IV</English>
@@ -437,6 +458,7 @@
             <Russian>Разрешить самостоятельный IV</Russian>
             <Ukrainian>Дозволити самостійний IV</Ukrainian>
             <Korean>자가 IV 허용</Korean>
+            <Spanish>Permitir auto IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_SelfIV_Desc">
             <English>Allow self-application of IV</English>
@@ -447,6 +469,7 @@
             <Russian>Разрешить самостоятельную установку IV</Russian>
             <Ukrainian>Дозволити самостійне встановлення IV</Ukrainian>
             <Korean>자기 자신에게 IV 적용을 허용합니다.</Korean>
+            <Spanish>Permitir autoaplicaion de IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_SelfIO">
             <English>Allow Self IO</English>
@@ -457,6 +480,7 @@
             <Russian>Разрешить самостоятельный IO</Russian>
             <Ukrainian>Дозволити самостійний IO</Ukrainian>
             <Korean>자가 IO 허용</Korean>
+            <Spanish>Permitir auto IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_SelfIO_Desc">
             <English>Allow self-application of IO</English>
@@ -467,12 +491,14 @@
             <Russian>Разрешить самостоятельную установку IO</Russian>
             <Ukrainian>Дозволити самостійне встановлення IO</Ukrainian>
             <Korean>자기 자신에게 IO 적용을 허용합니다.</Korean>
+            <Spanish>Permitir autoaplicaion de IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_ReusableSyringe">
             <English>Reusable Syringes</English>
             <Russian>Многоразовые шприцы</Russian>
             <Ukrainian>Багаторазові шприци</Ukrainian>
             <Korean>주사기 재사용</Korean>
+            <Spanish>Jeringillas reusables</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_ReusableSyringe_Desc">
             <English>Sets whether syringes are reusable instead of consumed on medication administration</English>
@@ -486,6 +512,7 @@
             <Russian>Разрешить шприц</Russian>
             <Ukrainian>Дозволити шприц</Ukrainian>
             <Korean>주사기 허용</Korean>
+            <Spanish>Permitir jeringuilla</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_Syringe_Desc">
             <English>Training level required to use syringes</English>
@@ -493,6 +520,7 @@
             <Russian>Уровень подготовки для использования шприцов</Russian>
             <Ukrainian>Рівень підготовки для використання шприців</Ukrainian>
             <Korean>주사기 사용에 필요한 훈련 수준을 설정합니다.</Korean>
+            <Spanish>Nivel de entrenamiento necesario para usar jeringuillas</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_AmmoniaInhalant">
             <English>Allow Ammonia Inhalant</English>
@@ -500,6 +528,7 @@
             <Russian>Разрешить нашатырь (ингалянт)</Russian>
             <Ukrainian>Дозволити аміачний інгалянт</Ukrainian>
             <Korean>암모니아 흡입제 허용</Korean>
+            <Spanish>Permiir nhalador de amonia</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_AmmoniaInhalant_Desc">
             <English>Training level required to use ammonia inhalant</English>
@@ -507,6 +536,7 @@
             <Russian>Уровень подготовки для использования аммиачного ингалянта</Russian>
             <Ukrainian>Рівень підготовки для використання аміачного інгалянта</Ukrainian>
             <Korean>암모니아 흡입제 사용에 필요한 훈련 수준을 설정합니다.</Korean>
+            <Spanish>Nivel de enrenamiento necesario para usar inhaladar de amonia</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_FentanylLozenge">
             <English>Allow Fentanyl Lozenge</English>
@@ -514,6 +544,7 @@
             <Russian>Разрешить леденец фентанила</Russian>
             <Ukrainian>Дозволити льодяник фентанілу</Ukrainian>
             <Korean>펜타닐 로젠지 허용</Korean>
+            <Spanish>Permitir piruleta de fentanilo</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_FentanylLozenge_Desc">
             <English>Training level required to administer fentanyl lozenges</English>
@@ -521,6 +552,7 @@
             <Russian>Уровень подготовки для введения леденцов с фентанилом</Russian>
             <Ukrainian>Рівень підготовки для введення льодяників з фентанілом</Ukrainian>
             <Korean>펜타닐 로젠지 투여에 필요한 훈련 수준을 설정합니다.</Korean>
+            <Spanish>Nivel de entrenamiento necesario para usar piruletas de fentanilo</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_BloodType_Ratio_%1">
             <English>%1 Ratio</English>
@@ -570,6 +602,7 @@
                 <Russian>Автоматический наружный дефибриллятор</Russian>
                 <Ukrainian>Автоматичний зовнішній дефібрилятор</Ukrainian>
                 <Korean>자동심장충격기 (Automated External Defibrillator)</Korean>
+                <Spanish>Desfibrilador Externo Automatico</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_Short">
                 <English>AED</English>
@@ -580,6 +613,7 @@
                 <Russian>AED</Russian>
                 <Ukrainian>AED</Ukrainian>
                 <Korean>AED</Korean>
+                <Spanish>DEA</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_Desc">
                 <English>Device used to monitor patient vitals and treat cardiac arrest</English>
@@ -590,6 +624,7 @@
                 <Russian>Устройство, используемое для мониторинга жизненных показателей пациента и лечения остановки сердца</Russian>
                 <Ukrainian>Пристрій, що використовується для моніторингу життєвих показників пацієнта та лікування зупинки серця</Ukrainian>
                 <Korean>환자의 활력징후를 모니터링하고 심정지를 치료하는 장치입니다.</Korean>
+                <Spanish>Dispositivo usado para monitorear las vitales del paciente y tratar paradas cardiacas</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_PressureCuff">
                 <English>Pressure Cuff</English>
@@ -620,6 +655,7 @@
                 <Russian>IV 16G</Russian>
                 <Ukrainian>IV 16G</Ukrainian>
                 <Korean>16g IV</Korean>
+                <Spanish>IV 16g</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_16g_Desc">
                 <English>Used to gain intravenous access to transfuse fluids in case of blood loss</English>
@@ -630,6 +666,7 @@
                 <Russian>Для венозного доступа и переливания жидкостей при кровопотере</Russian>
                 <Ukrainian>Для венозного доступу та переливання рідин при крововтраті</Ukrainian>
                 <Korean>출혈 시 체액 수혈/주입을 위해 정맥 접근을 확보하는 데 사용됩니다.</Korean>
+                <Spanish>Usado para obtener aceso intravenoso para trasfusiones de fluidos en caso de perdida de sangre</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_14g">
                 <English>14g IV</English>
@@ -640,6 +677,7 @@
                 <Russian>IV 14G</Russian>
                 <Ukrainian>IV 14G</Ukrainian>
                 <Korean>14g IV</Korean>
+                <Spanish>IV 14g</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_14g_Desc">
                 <English>Used to gain intravenous access to rapidly transfuse fluids in case of blood loss</English>
@@ -660,6 +698,7 @@
                 <Russian>FAST1 IO</Russian>
                 <Ukrainian>FAST1 IO</Ukrainian>
                 <Korean>FAST1 IO</Korean>
+                <Spanish>FAST IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IO_FAST1_Desc">
                 <English>Used to gain intraosseous access to transfuse fluids in case of severe injury, allows access on the sternum</English>
@@ -680,6 +719,7 @@
                 <Russian>EZ-IO</Russian>
                 <Ukrainian>EZ-IO</Ukrainian>
                 <Korean>EZ-IO</Korean>
+                <Spanish>EZ-IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IO_EZ_Desc">
                 <English>Used to gain intraosseous access to transfuse fluids in case of severe injury, allows access on the extremities</English>
@@ -700,6 +740,7 @@
                 <Russian>Шприц</Russian>
                 <Ukrainian>Шприц</Ukrainian>
                 <Korean>주사기</Korean>
+                <Spanish>Jeringuilla</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringes">
                 <English>Syringes</English>
@@ -710,6 +751,7 @@
                 <Russian>Шприцы</Russian>
                 <Ukrainian>Шприци</Ukrainian>
                 <Korean>주사기들</Korean>
+                <Spanish>Jeringuillas</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_%1">
                 <English>Syringe (%1ml)</English>
@@ -720,6 +762,7 @@
                 <Russian>Шприц (%1 мл)</Russian>
                 <Ukrainian>Шприц (%1 мл)</Ukrainian>
                 <Korean>주사기 (%1ml)</Korean>
+                <Spanish>Jeringuillas (%1ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_Desc_%1">
                 <English>Used to administer %1ml of medication</English>
@@ -730,6 +773,7 @@
                 <Russian>Используется для введения %1 мл препарата</Russian>
                 <Ukrainian>Використовується для введення %1 мл препарату</Ukrainian>
                 <Korean>약물 %1ml를 투여하는 데 사용됩니다.</Korean>
+                <Spanish>Usado para administrar %1ml de mediacion</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_PreparedWith">
                 <English>%1ml syringe prepared with %2</English>
@@ -740,6 +784,7 @@
                 <Russian>Подготовлен шприц %1 мл с %2</Russian>
                 <Ukrainian>Підготовлено шприц %1 мл з %2</Ukrainian>
                 <Korean>%1ml 주사기에 %2 준비됨</Korean>
+                <Spanish>Jeringuilla de %1ml preparado con %2</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_BloodBag">
                 <English>Blood Bag %1</English>
@@ -750,6 +795,7 @@
                 <Russian>Пакет крови %1</Russian>
                 <Ukrainian>Пакет крові %1</Ukrainian>
                 <Korean>혈액 백 %1</Korean>
+                <Spanish>Bolsa de sangre %1</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_BloodBag_Desc">
                 <English>Used to replenish lost blood volume</English>
@@ -760,6 +806,7 @@
                 <Russian>Для восполнения объёма утраченной крови</Russian>
                 <Ukrainian>Для відновлення обʼєму втраченої крові</Ukrainian>
                 <Korean>손실된 혈액량을 보충하는 데 사용됩니다.</Korean>
+                <Spanish>Usad para reponer perdida de sangre</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FieldBloodTransfusionKit">
                 <English>Field Blood Transfusion Kit</English>
@@ -770,6 +817,7 @@
                 <Russian>Полевой набор для переливания крови</Russian>
                 <Ukrainian>Польовий набір для переливання крові</Ukrainian>
                 <Korean>현장 수혈 키트 (Field Blood Transfusion Kit)</Korean>
+                <Spanish>Kit de transfusion de sangre de campo</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FieldBloodTransfusionKit_Short">
                 <English>FBTK</English>
@@ -780,6 +828,7 @@
                 <Russian>ПНПК</Russian>
                 <Ukrainian>ПНПК</Ukrainian>
                 <Korean>FBTK</Korean>
+                <Spanish>FBTK</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FieldBloodTransfusionKit_Desc">
                 <English>Used to transfuse fresh blood in emergency</English>
@@ -790,6 +839,7 @@
                 <Russian>Для переливания свежей крови в экстренной ситуации</Russian>
                 <Ukrainian>Для переливання свіжої крові в екстрених умовах</Ukrainian>
                 <Korean>응급 상황에서 신선한 혈액을 수혈하는 데 사용됩니다.</Korean>
+                <Spanish>Usado para transfusiones de sangre fresca en casos de emergencia</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FreshBloodBag">
                 <English>Fresh Blood Bag %1</English>
@@ -800,6 +850,7 @@
                 <Russian>Пакет свежей крови %1</Russian>
                 <Ukrainian>Пакет свіжої крові %1</Ukrainian>
                 <Korean>신선 혈액 백 %1 </Korean>
+                <Spanish>Bolsa de sangre fresca %1</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FreshBloodBag_Short">
                 <English>FWB Bag %1</English>
@@ -810,6 +861,7 @@
                 <Russian>ПСК %1</Russian>
                 <Ukrainian>ПСК %1</Ukrainian>
                 <Korean>FWB 백 %1</Korean>
+                <Spanish>Bolsa SF %1</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FreshBloodBag_Desc">
                 <English>Freshly transfused blood, used to replenish lost blood volume</English>
@@ -820,6 +872,7 @@
                 <Russian>Свежеперелитая кровь, используемая для восполнения потерянного объема крови</Russian>
                 <Ukrainian>Свіжоперелита кров, що використовується для поповнення втраченого об'єму крові</Ukrainian>
                 <Korean>막 수혈한 신선 혈액으로, 손실된 혈액량 보충에 사용됩니다.</Korean>
+                <Spanish>Sangre recion transfusionado usado para reponner volumen de sangre perdido</Spanish>
             </Key>
         </Container>
         <Container name="// Items - Individual Medication //">
@@ -832,6 +885,7 @@
                 <Russian>Адреналин</Russian>
                 <Ukrainian>Епінефрин</Ukrainian>
                 <Korean>에피네프린 (Epinephrine)</Korean>
+                <Spanish>Epinefrina</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Adenosine">
                 <English>Adenosine</English>
@@ -842,6 +896,7 @@
                 <Russian>Аденозин</Russian>
                 <Ukrainian>Аденозин</Ukrainian>
                 <Korean>아데노신 (Adenosine)</Korean>
+                <Spanish>Adenosina</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Morphine">
                 <English>Morphine</English>
@@ -852,6 +907,7 @@
                 <Russian>Морфин</Russian>
                 <Ukrainian>Морфін</Ukrainian>
                 <Korean>모르핀 (Morphine)</Korean>
+                <Spanish>Morfina</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Ketamine">
                 <English>Ketamine</English>
@@ -862,6 +918,7 @@
                 <Russian>Кетамин</Russian>
                 <Ukrainian>Кетамін</Ukrainian>
                 <Korean>케타민 (Ketamine)</Korean>
+                <Spanish>Ketamina</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Lidocaine">
                 <English>Lidocaine</English>
@@ -872,6 +929,7 @@
                 <Russian>Лидокаин</Russian>
                 <Ukrainian>Лідокаїн</Ukrainian>
                 <Korean>리도카인 (Lidocaine)</Korean>
+                <Spanish>Lidocaina</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_TXA">
                 <English>TXA</English>
@@ -882,6 +940,7 @@
                 <Russian>ТХА</Russian>
                 <Ukrainian>TXA</Ukrainian>
                 <Korean>트라넥사믹산 (TXA)</Korean>
+                <Spanish>TXA</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Amiodarone">
                 <English>Amiodarone</English>
@@ -892,6 +951,7 @@
                 <Russian>Амиодарон</Russian>
                 <Ukrainian>Аміодарон</Ukrainian>
                 <Korean>아미오다론 (Amiodarone)</Korean>
+                <Spanish>Amiadorona</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Atropine">
                 <English>Atropine</English>
@@ -899,6 +959,7 @@
                 <Russian>Атропин</Russian>
                 <Ukrainian>Атропін</Ukrainian>
                 <Korean>아트로핀 (Atropine)</Korean>
+                <Spanish>Atropina</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Fentanyl">
                 <English>Fentanyl</English>
@@ -909,6 +970,7 @@
                 <Russian>Фентанил</Russian>
                 <Ukrainian>Фентаніл</Ukrainian>
                 <Korean>펜타닐 (Fentanyl)</Korean>
+                <Spanish>Fentanilo</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Ondansetron">
                 <English>Ondansetron</English>
@@ -919,6 +981,7 @@
                 <Russian>Ондансетрон</Russian>
                 <Ukrainian>Ондансетрон</Ukrainian>
                 <Korean>온단세트론 (Ondansetron)</Korean>
+                <Spanish>Ondasetron</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_CalciumChloride">
                 <English>Calcium Chloride</English>
@@ -939,6 +1002,7 @@
                 <Russian>Эртапенем</Russian>
                 <Ukrainian>Ертапенем</Ukrainian>
                 <Korean>에르타페넴 (Ertapenem)</Korean>
+                <Spanish>Ertrapen</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Esmolol">
                 <English>Esmolol</English>
@@ -949,6 +1013,7 @@
                 <Russian>Эсмолол</Russian>
                 <Ukrainian>Есмолол</Ukrainian>
                 <Korean>에스몰롤 (Esmolol)</Korean>
+                <Spanish>Esmolol</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Naloxone">
                 <English>Naloxone</English>
@@ -959,6 +1024,7 @@
                 <Russian>Налоксон</Russian>
                 <Ukrainian>Налоксон</Ukrainian>
                 <Korean>날록손 (Naloxone)</Korean>
+                <Spanish>Naloxona</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_Penthrox">
                 <English>Penthrox</English>
@@ -969,6 +1035,7 @@
                 <Russian>Пентрокс</Russian>
                 <Ukrainian>Пентрокс</Ukrainian>
                 <Korean>흡입식 진통 마취제 (Penthrox)</Korean>
+                <Spanish>Phentrox</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Medication_OTFC">
                 <English>Oral Transmucosal Fentanyl Citrate</English>
@@ -1004,6 +1071,7 @@
                 <Russian>Флакон адреналина (1 мг/1 мл)</Russian>
                 <Ukrainian>Флакон епінефрину (1 мг/1 мл)</Ukrainian>
                 <Korean>에피네프린 바이알 (1mg/1ml) (Epinephrine Vial)</Korean>
+                <Spanish>Fraso de epinefrina (1ml/1mg)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Epinephrine_Desc">
                 <English>Used to treat cardiac arrest</English>

@@ -1082,6 +1082,7 @@
                 <Russian>Используется для лечения остановки сердца</Russian>
                 <Ukrainian>Використовується для лікування зупинки серця</Ukrainian>
                 <Korean>심정지 치료에 사용됩니다.</Korean>
+                <Spanish>Usado para tratar parada ardiaca</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Adenosine">
                 <English>Adenosine Vial (12mg/4ml)</English>
@@ -1092,6 +1093,7 @@
                 <Russian>Флакон аденозина (12 мг/4 мл)</Russian>
                 <Ukrainian>Флакон аденозину (12 мг/4 мл)</Ukrainian>
                 <Korean>아데노신 바이알 (12mg/4ml) (Adenosine Vial)</Korean>
+                <Spanish>Frasco de adenosina (12mg/4ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Adenosine_Desc">
                 <English>Used to treat certain heart arrhythmias</English>
@@ -1102,6 +1104,7 @@
                 <Russian>Используется при некоторых аритмиях</Russian>
                 <Ukrainian>Використовується при деяких аритміях</Ukrainian>
                 <Korean>특정 심장 부정맥(Arrhythmia) 치료에 사용됩니다.</Korean>
+                <Spanish>Usado para tratar ciertar aritmias cardiacas</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Morphine">
                 <English>Morphine Vial (10mg/2ml)</English>
@@ -1112,6 +1115,7 @@
                 <Russian>Флакон морфина (10 мг/2 мл)</Russian>
                 <Ukrainian>Флакон морфіну (10 мг/2 мл)</Ukrainian>
                 <Korean>모르핀 바이알 (10mg/2ml) (Morphine Vial)</Korean>
+                <Spanish>Frasco de morfna (10mg/2ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Morphine_Desc">
                 <English>Used to manage moderate to severe pain experiences</English>
@@ -1122,6 +1126,7 @@
                 <Russian>Для устранения умеренной/сильной боли</Russian>
                 <Ukrainian>Для усунення помірного/сильного болю</Ukrainian>
                 <Korean>중등도~중증 통증 관리를 위해 사용됩니다.</Korean>
+                <Spanish>Usado para controlar dolor moderado a grave</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Ketamine">
                 <English>Ketamine Vial (500mg/10ml)</English>
@@ -1132,6 +1137,7 @@
                 <Russian>Флакон кетамина (500 мг/10 мл)</Russian>
                 <Ukrainian>Флакон кетаміну (500 мг/10 мл)</Ukrainian>
                 <Korean>케타민 바이알 (500mg/10ml) (Ketamine Vial)</Korean>
+                <Spanish>Frasco de ketamina (500mg/10ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Ketamine_Desc">
                 <English>Used to manage moderate to severe pain, alternative to opioid analgesics</English>
@@ -1152,6 +1158,7 @@
                 <Russian>Флакон лидокаина (100 мг/5 мл)</Russian>
                 <Ukrainian>Флакон лідокаїну (100 мг/5 мл)</Ukrainian>
                 <Korean>리도카인 바이알 (100mg/5ml) (Lidocaine Vial)</Korean>
+                <Spanish>Frasco de lidacaina (100mg/5ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Lidocaine_Desc">
                 <English>Used as local anesthetic for painful surgical procedures, and to treat irregular heart rhythms</English>
@@ -1172,6 +1179,7 @@
                 <Russian>Флакон ТХА (1 г/10 мл)</Russian>
                 <Ukrainian>Флакон TXA (1 г/10 мл)</Ukrainian>
                 <Korean>트라넥사믹산 바이알 (1g/10ml) (TXA Vial)</Korean>
+                <Spanish>Frasco de TXA (1g/10ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_TXA_Desc">
                 <English>Used to manage catastrophic bleeding by preventing clot dissolvement</English>
@@ -1192,6 +1200,7 @@
                 <Russian>Флакон амиодарона (150 мг/3 мл)</Russian>
                 <Ukrainian>Флакон аміодарону (150 мг/3 мл)</Ukrainian>
                 <Korean>아미오다론 바이알 (150mg/3ml) (Amiodarone Vial)</Korean>
+                <Spanish>Frasco de amiadorona (150ml/3ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Amiodarone_Desc">
                 <English>Used to treat irregular heart rhythms</English>
@@ -1209,6 +1218,7 @@
                 <Russian>Флакон атропина (1 мг/1 мл)</Russian>
                 <Ukrainian>Флакон атропіну (1 мг/1 мл)</Ukrainian>
                 <Korean>아트로핀 바이알 (1mg/1ml) (Atropine Vial)</Korean>
+                <Spanish>Frasco de Atropina (1mg/1ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Atropine_Desc">
                 <English>Used to treat nerve agent exposure and increase heart rate</English>
@@ -1226,6 +1236,7 @@
                 <Russian>Флакон фентанила (100 мкг/2 мл)</Russian>
                 <Ukrainian>Флакон фентанілу (100 мкг/2 мл)</Ukrainian>
                 <Korean>펜타닐 바이알 (100mcg/2ml) (Fentanyl Vial)</Korean>
+                <Spanish>Frasco de fentanilo (100mcg/2ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Fentanyl_Desc">
                 <English>Used to manage acute severe pain</English>
@@ -1246,6 +1257,7 @@
                 <Russian>Флакон ондансетрона (4 мг/2 мл)</Russian>
                 <Ukrainian>Флакон ондансетрону (4 мг/2 мл)</Ukrainian>
                 <Korean>온단세트론 바이알 (4mg/2ml) (Ondansetron Vial)</Korean>
+                <Spanish>Frasco de Ondansetron (4mg/2ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Ondansetron_Desc">
                 <English>Used to manage nausea and vomiting</English>
@@ -1266,6 +1278,7 @@
                 <Russian>Флакон хлорида кальция (1 г/10 мл)</Russian>
                 <Ukrainian>Флакон хлориду кальцію (1 г/10 мл)</Ukrainian>
                 <Korean>염화칼슘 바이알 (1g/10ml) (Calcium Chloride Vial)</Korean>
+                <Spanish>Frasco de cloruro de calcio (1g/10ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_CalciumChloride_Desc">
                 <English>Used to manage low calcium after blood transfusion</English>
@@ -1286,6 +1299,7 @@
                 <Russian>Флакон эртапенема (1 г/3,2 мл)</Russian>
                 <Ukrainian>Флакон ертапенему (1 г/3,2 мл)</Ukrainian>
                 <Korean>에르타페넴 바이알 (1g/3.2ml) (Ertapenem Vial)</Korean>
+                <Spanish>Frasco de Ertrapenem (1g/3,2ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Ertapenem_Desc">
                 <English>Used to manage infections from open wounds, required before evacuation of casualty</English>
@@ -1306,6 +1320,7 @@
                 <Russian>Флакон эсмолола (100 мг/10 мл)</Russian>
                 <Ukrainian>Флакон есмололу (100 мг/10 мл)</Ukrainian>
                 <Korean>에스몰롤 바이알 (100mg/10ml) (Esmolol Vial)</Korean>
+                <Spanish>Frasco de Esmolol (100mg/10ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Vial_Esmolol_Desc">
                 <English>Used to lower heart rate for a short time</English>
@@ -1326,6 +1341,7 @@
                 <Russian>Назальный спрей налоксона</Russian>
                 <Ukrainian>Назальний спрей налоксону</Ukrainian>
                 <Korean>날록손 비강 분무 (Naloxone Nasal Spray)</Korean>
+                <Spanish>Spray nasal de naloxona</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Spray_Naloxone_Desc">
                 <English>Used to rapidly reverse opioid overdose</English>
@@ -1346,6 +1362,7 @@
                 <Russian>Парацетамол</Russian>
                 <Ukrainian>Парацетамол</Ukrainian>
                 <Korean>파라세타몰 (Paracetamol)</Korean>
+                <Spanish>Paraceamol</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Paracetamol_SinglePack">
                 <English>Paracetamol (Single Pack)</English>
@@ -1382,6 +1399,7 @@
                 <Russian>Аммиачный ингалянт</Russian>
                 <Ukrainian>Аміачний інгалянт</Ukrainian>
                 <Korean>암모니아 흡입제 (Ammonia Inhalant)</Korean>
+                <Spanish>Inhalante de aonia</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AmmoniaInhalant_Desc">
                 <English>Used to wake up patients who've fainted</English>
@@ -1402,6 +1420,7 @@
                 <Russian>Ингалятор Пентрокс</Russian>
                 <Ukrainian>Інгалятор Пентрокс</Ukrainian>
                 <Korean>Penthrox 흡입기 (Penthrox Inhaler)</Korean>
+                <Spanish>Inalador Penthrox</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Inhaler_Penthrox_Desc">
                 <English>Used to rapidly manage acute pain for a short time</English>
@@ -1420,6 +1439,7 @@
                 <Russian>Леденец с фентанилом</Russian>
                 <Ukrainian>Льодяник з фентанілом</Ukrainian>
                 <Korean>펜타닐 로젠지 (Fentanyl Lozenge)</Korean>
+                <Spanish>Piruleta de fentanilo</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Lozenge_Fentanyl_Desc">
                 <English>Used to manage acute severe pain, via oral transmucosal route</English>
@@ -1454,6 +1474,7 @@
                 <Russian>Использовать парацетамол</Russian>
                 <Ukrainian>Використати парацетамол</Ukrainian>
                 <Korean>파라세타몰 사용 (Use Paracetamol)</Korean>
+                <Spanish>Usar Paracetamol</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_UseParacetamol_Progress">
                 <English>Using Paracetamol...</English>
@@ -1464,6 +1485,7 @@
                 <Russian>Использование парацетамола...</Russian>
                 <Ukrainian>Використання парацетамолу...</Ukrainian>
                 <Korean>파라세타몰 사용하는 중... (Using Paracetamol...)</Korean>
+                <Spanish>Usando Paracetamol...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_UsePenthroxInhaler">
                 <English>Use Penthrox Inhaler</English>
@@ -1474,6 +1496,7 @@
                 <Russian>Использовать ингалятор Пентрокс</Russian>
                 <Ukrainian>Використати інгалятор Пентрокс</Ukrainian>
                 <Korean>Penthrox 흡입기 사용 (Use Penthrox Inhaler)</Korean>
+                <Spanish>Usar Inalador de Pentrox</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_UsePenthroxInhaler_Progress">
                 <English>Using Penthrox Inhaler...</English>
@@ -1484,6 +1507,7 @@
                 <Russian>Использование ингалятора Пентрокс...</Russian>
                 <Ukrainian>Використання інгалятора Пентрокс...</Ukrainian>
                 <Korean>Penthrox 흡입기 사용하는 중... (Using Penthrox Inhaler...)</Korean>
+                <Spanish>Usando Inalador de Penthrox ...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_UseAmmoniaInhalant">
                 <English>Use Ammonia Inhalant</English>
@@ -1494,6 +1518,7 @@
                 <Russian>Использовать аммиачный ингалянт</Russian>
                 <Ukrainian>Використати аміачний інгалянт</Ukrainian>
                 <Korean>암모니아 흡입제 사용 (Use Ammonia Inhalant)</Korean>
+                <Spanish>Usar unalante de amonia</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_UseAmmoniaInhalant_Progress">
                 <English>Using Ammonia Inhalant...</English>
@@ -1504,6 +1529,7 @@
                 <Russian>Использование аммиачного ингалянта...</Russian>
                 <Ukrainian>Використання аміачного інгалянта...</Ukrainian>
                 <Korean>암모니아 흡입제 사용하는 중... (Using Ammonia Inhalant...)</Korean>
+                <Spanish>Usando inalante de amonia...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_UseNaloxoneSpray">
                 <English>Use Naloxone Spray</English>
@@ -1514,6 +1540,7 @@
                 <Russian>Использовать спрей налоксона</Russian>
                 <Ukrainian>Використати спрей налоксону</Ukrainian>
                 <Korean>날록손 스프레이 사용 (Use Naloxone Spray)</Korean>
+                <Spanish>Usar Spray de Naloxona</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_UseNaloxoneSpray_Progress">
                 <English>Using Naloxone Spray...</English>
@@ -1524,6 +1551,7 @@
                 <Russian>Использование спрея налоксона...</Russian>
                 <Ukrainian>Використання спрею налоксону...</Ukrainian>
                 <Korean>날록손 스프레이 사용하는 중... (Using Naloxone Spray...)</Korean>
+                <Spanish>Usando Spray de naloxona ...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_UseSyringe">
                 <English>Use Syringe (%1ml)</English>
@@ -1534,6 +1562,7 @@
                 <Russian>Использовать шприц (%1 мл)</Russian>
                 <Ukrainian>Використати шприц (%1 мл)</Ukrainian>
                 <Korean>주사기 사용 (%1ml) (Use Syringe (%1ml))</Korean>
+                <Spanish>Uar jeringuilla (%1ml)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Intravenous_Short">
                 <English>IV</English>
@@ -1544,6 +1573,7 @@
                 <Russian>IV</Russian>
                 <Ukrainian>IV</Ukrainian>
                 <Korean>IV</Korean>
+                <Spanish>IV</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Intraosseous_Short">
                 <English>IO</English>
@@ -1554,6 +1584,7 @@
                 <Russian>IO</Russian>
                 <Ukrainian>IO</Ukrainian>
                 <Korean>IO</Korean>
+                <Spanish>IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Intramuscular_Short">
                 <English>IM</English>
@@ -1564,6 +1595,7 @@
                 <Russian>IM</Russian>
                 <Ukrainian>IM</Ukrainian>
                 <Korean>IM</Korean>
+                <Spanish>IM</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Push">
                 <English>Push</English>
@@ -1574,6 +1606,7 @@
                 <Russian>Ввести (IV/IO)</Russian>
                 <Ukrainian>Ввести (IV/IO)</Ukrainian>
                 <Korean>푸시 (Push)</Korean>
+                <Spanish>Injectar (IV)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Inject">
                 <English>Inject</English>
@@ -1584,6 +1617,7 @@
                 <Russian>Ввести (IM)</Russian>
                 <Ukrainian>Ввести (IM)</Ukrainian>
                 <Korean>주입 (Inject)</Korean>
+                <Spanish>Injectar (IM)</Spanish>
             </Key>
         </Container>
         <Container name="// Fentanyl Lozenge Actions //">
@@ -1718,6 +1752,7 @@
                 <Russian>Начать СЛР</Russian>
                 <Ukrainian>Розпочати СЛР</Ukrainian>
                 <Korean>CPR 시작</Korean>
+                <Spanish>Empear RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_Already">
                 <English>Patient already has CPR provider</English>
@@ -1728,6 +1763,7 @@
                 <Russian>Пациенту уже оказывается СЛР</Russian>
                 <Ukrainian>Пацієнту вже надається СЛР</Ukrainian>
                 <Korean>환자는 이미 CPR 제공자가 있음</Korean>
+                <Spanish>Paciente ya tiene provedor de RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_ActionLog_Started">
                 <English>%1 started CPR</English>
@@ -1738,6 +1774,7 @@
                 <Russian>%1 начал СЛР</Russian>
                 <Ukrainian>%1 розпочав СЛР</Ukrainian>
                 <Korean>%1이 CPR 시작</Korean>
+                <Spanish>%1 empezo RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_ActionLog_Stopped">
                 <English>%1 stopped CPR (%2)</English>
@@ -1748,6 +1785,7 @@
                 <Russian>%1 остановил СЛР (%2)</Russian>
                 <Ukrainian>%1 зупинив СЛР (%2)</Ukrainian>
                 <Korean>%1이 CPR 중단 (%2)</Korean>
+                <Spanish>%1 paro RCP (%2)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_Stop">
                 <English>Stop CPR</English>
@@ -1758,6 +1796,7 @@
                 <Russian>Остановить СЛР</Russian>
                 <Ukrainian>Зупинити СЛР</Ukrainian>
                 <Korean>CPR 중단</Korean>
+                <Spanish>Parar RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_Stopped">
                 <English>Stopped CPR</English>
@@ -1768,6 +1807,7 @@
                 <Russian>СЛР остановлена</Russian>
                 <Ukrainian>СЛР зупинено</Ukrainian>
                 <Korean>CPR 중단됨</Korean>
+                <Spanish>Paro RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_Started">
                 <English>Started CPR</English>
@@ -1778,6 +1818,7 @@
                 <Russian>СЛР начата</Russian>
                 <Ukrainian>СЛР розпочато</Ukrainian>
                 <Korean>CPR 시작됨</Korean>
+                <Spanish>Empezo RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_Continue">
                 <English>Continue CPR</English>
@@ -1788,6 +1829,7 @@
                 <Russian>Продолжить СЛР</Russian>
                 <Ukrainian>Продовжити СЛР</Ukrainian>
                 <Korean>CPR 계속</Korean>
+                <Spanish>Continuar RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_Continued">
                 <English>Continued CPR</English>
@@ -1798,6 +1840,7 @@
                 <Russian>СЛР продолжена</Russian>
                 <Ukrainian>СЛР продовжено</Ukrainian>
                 <Korean>CPR 계속됨</Korean>
+                <Spanish>Continuando RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_Pause">
                 <English>Pause CPR</English>
@@ -1808,6 +1851,7 @@
                 <Russian>Пауза СЛР</Russian>
                 <Ukrainian>Пауза СЛР</Ukrainian>
                 <Korean>CPR 일시 중지</Korean>
+                <Spanish>Pausar RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_Paused">
                 <English>Paused CPR</English>
@@ -1818,6 +1862,7 @@
                 <Russian>СЛР приостановлена</Russian>
                 <Ukrainian>СЛР призупинено</Ukrainian>
                 <Korean>CPR 일시 중지됨</Korean>
+                <Spanish>Pausado RCP</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_SwapToBVM">
                 <English>Swap To BVM</English>
@@ -1826,6 +1871,7 @@
                 <Russian>Перейти на мешок Амбу</Russian>
                 <Ukrainian>Перейти на мішок Амбу</Ukrainian>
                 <Korean>BVM로 전환</Korean>
+                <Spanish>Cambiar a Ambu</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_CPR_SwappedToBVM">
                 <English>Swapped To BVM</English>
@@ -1834,6 +1880,7 @@
                 <Russian>Переключено на мешок Амбу</Russian>
                 <Ukrainian>Перемкнено на мішок Амбу</Ukrainian>
                 <Korean>BVM로 전환됨</Korean>
+                <Spanish>Cambiado a Ambu</Spanish>
             </Key>
         </Container>
         <Container name="// Capillary Refill Action //">
@@ -1888,6 +1935,7 @@
                 <Russian>Пальпация пульса</Russian>
                 <Ukrainian>Пальпація пульсу</Ukrainian>
                 <Korean>맥박 촉지</Korean>
+                <Spanish>Sentir pulso</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FeelPulse_FeelingForPulse">
                 <English>Feeling for pulse...</English>
@@ -1898,6 +1946,7 @@
                 <Russian>Поиск пульса...</Russian>
                 <Ukrainian>Пошук пульсу...</Ukrainian>
                 <Korean>맥박 확인 중...</Korean>
+                <Spanish>Sintiendo pulso ...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FeelPulse_Stopped">
                 <English>Stopped feeling pulse</English>
@@ -1908,6 +1957,7 @@
                 <Russian>Поиск пульса прекращён</Russian>
                 <Ukrainian>Пошук пульсу припинено</Ukrainian>
                 <Korean>맥박 확인 중단</Korean>
+                <Spanish>Paro de sentir pulso</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FeelPulse_Carotid">
                 <English>Carotid</English>
@@ -2058,6 +2108,7 @@
                 <Russian>Переливание жидкостей</Russian>
                 <Ukrainian>Переливання рідин</Ukrainian>
                 <Korean>수액/혈액 주입 (Transfuse Fluids)</Korean>
+                <Spanish>Transfusion de fluidos</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_StopTransfusion_Display">
                 <English>Stop %1 Transfusion</English>
@@ -2068,6 +2119,7 @@
                 <Russian>Остановить переливание %1</Russian>
                 <Ukrainian>Зупинити переливання %1</Ukrainian>
                 <Korean>%1 수혈/주입 중지</Korean>
+                <Spanish>Paro %1 Transfuson</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_StopTransfusion_ToolTip">
                 <English>Stop fluid transfusion on selected %1</English>
@@ -2088,6 +2140,7 @@
                 <Russian>Начать переливание %1</Russian>
                 <Ukrainian>Почати переливання %1</Ukrainian>
                 <Korean>%1 수혈/주입 시작</Korean>
+                <Spanish>Iniciar %1 transfusion</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_StartTransfusion_ToolTip">
                 <English>Start fluid transfusion on selected %1</English>
@@ -2108,6 +2161,7 @@
                 <Russian>Переключить IV/IO</Russian>
                 <Ukrainian>Перемкнути IV/IO</Ukrainian>
                 <Korean>IV/IO 전환</Korean>
+                <Spanish>Alternar IV/IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_AddBag_Display">
                 <English>Add Bag</English>
@@ -2118,6 +2172,7 @@
                 <Russian>Добавить пакет</Russian>
                 <Ukrainian>Додати пакет</Ukrainian>
                 <Korean>수액백 추가</Korean>
+                <Spanish>Anadir bolsa</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_AddBag_ToolTip">
                 <English>Add new fluid bag</English>
@@ -2128,6 +2183,7 @@
                 <Russian>Добавить новый пакет жидкости</Russian>
                 <Ukrainian>Додати новий пакет рідини</Ukrainian>
                 <Korean>새로운 수액 백 추가</Korean>
+                <Spanish>Anadir nueva bolsa</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_AddBag_Progress">
                 <English>Connecting %1...</English>
@@ -2138,6 +2194,7 @@
                 <Russian>Подключение %1...</Russian>
                 <Ukrainian>Підключення %1...</Ukrainian>
                 <Korean>%1 연결 중...</Korean>
+                <Spanish>Conectando %1 ...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Display">
                 <English>Move</English>
@@ -2148,6 +2205,7 @@
                 <Russian>Переместить</Russian>
                 <Ukrainian>Перемістити</Ukrainian>
                 <Korean>이동</Korean>
+                <Spanish>Mover</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Progress">
                 <English>Moving %1 to %2...</English>
@@ -2158,6 +2216,7 @@
                 <Russian>Перемещение %1 в %2...</Russian>
                 <Ukrainian>Переміщення %1 до %2...</Ukrainian>
                 <Korean>%1을 %2로 이동 중...</Korean>
+                <Spanish>Moviendo %1 para %2...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Hint">
                 <English>Began moving %1</English>
@@ -2168,6 +2227,7 @@
                 <Russian>Начато перемещение %1</Russian>
                 <Ukrainian>Почато переміщення %1</Ukrainian>
                 <Korean>%1 이동 시작</Korean>
+                <Spanish>Empezo a mover %1</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Place_Display">
                 <English>Place</English>
@@ -2178,6 +2238,7 @@
                 <Russian>Установить</Russian>
                 <Ukrainian>Встановити</Ukrainian>
                 <Korean>설치</Korean>
+                <Spanish>Conectar</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_ToolTip">
                 <English>Move fluid bag from IV</English>
@@ -2188,6 +2249,7 @@
                 <Russian>Снять пакет с IV</Russian>
                 <Ukrainian>Зняти пакет з IV</Ukrainian>
                 <Korean>IV에서 수액 백 이동</Korean>
+                <Spanish>Mover bolsa de fluido de IV</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Place_ToolTip">
                 <English>Place fluid bag on selected IV line</English>
@@ -2208,6 +2270,7 @@
                 <Russian>Удалить</Russian>
                 <Ukrainian>Видалити</Ukrainian>
                 <Korean>제거</Korean>
+                <Spanish>Desconectar</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_RemoveBag_ToolTip">
                 <English>Remove fluid bag</English>
@@ -2218,6 +2281,7 @@
                 <Russian>Удалить пакет жидкости</Russian>
                 <Ukrainian>Видалити пакет рідини</Ukrainian>
                 <Korean>수액 백 제거</Korean>
+                <Spanish>Desconectando bolsa</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_RemoveBag_ActionLog">
                 <English>%1 removed fluid bag (%2) from %3</English>
@@ -2228,6 +2292,7 @@
                 <Russian>%1 удалил пакет (%2) с %3</Russian>
                 <Ukrainian>%1 видалив пакет (%2) з %3</Ukrainian>
                 <Korean>%1이 %3에서 수액 백(%2)을 제거함</Korean>
+                <Spanish>%1 desconecto bolsa de fluido (%2) de %3</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_RemoveBag_Progress">
                 <English>Removing %1...</English>
@@ -2238,6 +2303,7 @@
                 <Russian>Удаление %1...</Russian>
                 <Ukrainian>Видалення %1...</Ukrainian>
                 <Korean>%1 제거 중...</Korean>
+                <Spanish>Desconectando %3</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_TransfusionMenu_FluidRemaining">
                 <English>%1ml remaining</English>
@@ -2248,6 +2314,7 @@
                 <Russian>Осталось %1 мл</Russian>
                 <Ukrainian>Залишилось %1 мл</Ukrainian>
                 <Korean>%1ml 남음</Korean>
+                <Spanish>%1ml restantes</Spanish>
             </Key>
         </Container>
         <Container name="// IV/IO Actions //">
@@ -2260,6 +2327,7 @@
                 <Russian>Установить IV 16G (верх)</Russian>
                 <Ukrainian>Встановити IV 16G (верх)</Ukrainian>
                 <Korean>16g IV 삽입 (상부) </Korean>
+                <Spanish>Insertar IV 16g (Superior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIV_16_Upper">
                 <English>Remove 16g IV (Upper)</English>
@@ -2270,6 +2338,7 @@
                 <Russian>Снять IV 16G (верх)</Russian>
                 <Ukrainian>Зняти IV 16G (верх)</Ukrainian>
                 <Korean>16g IV 제거 (상부)</Korean>
+                <Spanish>Quitar IV 16g (Superior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIV_16_Middle">
                 <English>Insert 16g IV (Middle)</English>
@@ -2280,6 +2349,7 @@
                 <Russian>Установить IV 16G (середина)</Russian>
                 <Ukrainian>Встановити IV 16G (середина)</Ukrainian>
                 <Korean>16g IV 삽입 (중부)</Korean>
+                <Spanish>Insertar IV 16g (medio)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIV_16_Middle">
                 <English>Remove 16g IV (Middle)</English>
@@ -2290,6 +2360,7 @@
                 <Russian>Снять IV 16G (середина)</Russian>
                 <Ukrainian>Зняти IV 16G (середина)</Ukrainian>
                 <Korean>16g IV 제거 (중부)</Korean>
+                <Spanish>Quitar IV 16g (medio)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIV_16_Lower">
                 <English>Insert 16g IV (Lower)</English>
@@ -2300,6 +2371,7 @@
                 <Russian>Установить IV 16G (низ)</Russian>
                 <Ukrainian>Встановити IV 16G (низ)</Ukrainian>
                 <Korean>16g IV 삽입 (하부)</Korean>
+                <Spanish>Insertar IV 16g (inferior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIV_16_Lower">
                 <English>Remove 16g IV (Lower)</English>
@@ -2310,6 +2382,7 @@
                 <Russian>Снять IV 16G (низ)</Russian>
                 <Ukrainian>Зняти IV 16G (низ)</Ukrainian>
                 <Korean>16g IV 제거 (하부)</Korean>
+                <Spanish>Quitar IV 16g (inferior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIV_16_Progress">
                 <English>Inserting 16g IV...</English>
@@ -2320,6 +2393,7 @@
                 <Russian>Установка IV 16G...</Russian>
                 <Ukrainian>Встановлення IV 16G...</Ukrainian>
                 <Korean>16g IV 삽입 중...</Korean>
+                <Spanish>Insertando IV 16g...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIV_16_Progress">
                 <English>Removing 16g IV...</English>
@@ -2330,6 +2404,7 @@
                 <Russian>Снять IV 16G...</Russian>
                 <Ukrainian>Зняття IV 16G...</Ukrainian>
                 <Korean>16g IV 제거 중... </Korean>
+                <Spanish>Quitando IV 16g...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIV_14_Upper">
                 <English>Insert 14g IV (Upper)</English>
@@ -2340,6 +2415,7 @@
                 <Russian>Установить IV 14G (верх)</Russian>
                 <Ukrainian>Встановити IV 14G (верх)</Ukrainian>
                 <Korean>14g IV 삽입 (상부)</Korean>
+                <Spanish>Insertar IV 14g (superior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIV_14_Upper">
                 <English>Remove 14g IV (Upper)</English>
@@ -2350,6 +2426,7 @@
                 <Russian>Снять IV 14G (верх)</Russian>
                 <Ukrainian>Зняти IV 14G (верх)</Ukrainian>
                 <Korean>14g IV 제거 (상부)</Korean>
+                <Spanish>Quitar IV 14g (superior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIV_14_Middle">
                 <English>Insert 14g IV (Middle)</English>
@@ -2360,6 +2437,7 @@
                 <Russian>Установить IV 14G (середина)</Russian>
                 <Ukrainian>Встановити IV 14G (середина)</Ukrainian>
                 <Korean>14g IV 삽입 (중부)</Korean>
+                <Spanish>Insertar IV 14g (medio)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIV_14_Middle">
                 <English>Remove 14g IV (Middle)</English>
@@ -2370,6 +2448,7 @@
                 <Russian>Снять IV 14G (середина)</Russian>
                 <Ukrainian>Зняти IV 14G (середина)</Ukrainian>
                 <Korean>14g IV 제거 (중부)</Korean>
+                <Spanish>Quitar IV 14g (medo)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIV_14_Lower">
                 <English>Insert 14g IV (Lower)</English>
@@ -2380,6 +2459,7 @@
                 <Russian>Установить IV 14G (низ)</Russian>
                 <Ukrainian>Встановити IV 14G (низ)</Ukrainian>
                 <Korean>14g IV 삽입 (하부)</Korean>
+                <Spanish>Insertar IV 14g (inferior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIV_14_Lower">
                 <English>Remove 14g IV (Lower)</English>
@@ -2390,6 +2470,7 @@
                 <Russian>Снять IV 14G (низ)</Russian>
                 <Ukrainian>Зняти IV 14G (низ)</Ukrainian>
                 <Korean>14g IV 제거 (하부)</Korean>
+                <Spanish>Quitar IV 14 (inferior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIV_14_Progress">
                 <English>Inserting 14g IV...</English>
@@ -2400,6 +2481,7 @@
                 <Russian>Установка IV 14G...</Russian>
                 <Ukrainian>Встановлення IV 14G...</Ukrainian>
                 <Korean>14g IV 삽입 중... </Korean>
+                <Spanish>Insertando IV 14g...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIV_14_Progress">
                 <English>Removing 14g IV...</English>
@@ -2410,6 +2492,7 @@
                 <Russian>Снять IV 14G...</Russian>
                 <Ukrainian>Зняття IV 14G...</Ukrainian>
                 <Korean>14g IV 제거 중... </Korean>
+                <Spanish>Quitando V 14g,,,</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIO_FAST1">
                 <English>Insert FAST1 IO</English>
@@ -2420,6 +2503,7 @@
                 <Russian>Установить FAST1 IO</Russian>
                 <Ukrainian>Встановити FAST1 IO</Ukrainian>
                 <Korean>FAST1 IO 삽입</Korean>
+                <Spanish>Insertar FAST1 IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIO_FAST1_Progress">
                 <English>Inserting FAST1 IO...</English>
@@ -2430,6 +2514,7 @@
                 <Russian>Установка FAST1 IO...</Russian>
                 <Ukrainian>Встановлення FAST1 IO...</Ukrainian>
                 <Korean>FAST1 IO 삽입 중... </Korean>
+                <Spanish>Insertando FAST1 IO...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIO_FAST1">
                 <English>Remove FAST1 IO</English>
@@ -2440,6 +2525,7 @@
                 <Russian>Снять FAST1 IO</Russian>
                 <Ukrainian>Зняти FAST1 IO</Ukrainian>
                 <Korean>FAST1 IO 제거 </Korean>
+                <Spanish>Quitar FAST1 IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIO_FAST1_Progress">
                 <English>Removing FAST1 IO...</English>
@@ -2450,6 +2536,7 @@
                 <Russian>Снятие FAST1 IO...</Russian>
                 <Ukrainian>Зняття FAST1 IO...</Ukrainian>
                 <Korean>FAST1 IO 제거 중... </Korean>
+                <Spanish>Quitando FAST1 IO...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIO_EZ">
                 <English>Insert EZ-IO</English>
@@ -2460,6 +2547,7 @@
                 <Russian>Установить EZ-IO</Russian>
                 <Ukrainian>Встановити EZ-IO</Ukrainian>
                 <Korean>EZ-IO 삽입 </Korean>
+                <Spanish>Insertar EZ-IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InsertIO_EZ_Progress">
                 <English>Inserting EZ-IO...</English>
@@ -2470,6 +2558,7 @@
                 <Russian>Установка EZ-IO...</Russian>
                 <Ukrainian>Встановлення EZ-IO...</Ukrainian>
                 <Korean>EZ-IO 삽입 중... </Korean>
+                <Spanish>Insertando EZ-IO...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIO_EZ">
                 <English>Remove EZ-IO</English>
@@ -2480,6 +2569,7 @@
                 <Russian>Снять EZ-IO</Russian>
                 <Ukrainian>Зняти EZ-IO</Ukrainian>
                 <Korean>EZ-IO 제거 </Korean>
+                <Spanish>Quitar EZ-IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_RemoveIO_EZ_Progress">
                 <English>Removing EZ-IO...</English>
@@ -2490,6 +2580,7 @@
                 <Russian>Снятие EZ-IO...</Russian>
                 <Ukrainian>Зняття EZ-IO...</Ukrainian>
                 <Korean>EZ-IO 제거 중...</Korean>
+                <Spanish>Quitando EZ-IO</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_Upper">
                 <English>Upper</English>
@@ -2500,6 +2591,7 @@
                 <Russian>Верхняя</Russian>
                 <Ukrainian>Верхня</Ukrainian>
                 <Korean>상부 (Upper)</Korean>
+                <Spanish>Superior</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_Middle">
                 <English>Middle</English>
@@ -2510,6 +2602,7 @@
                 <Russian>Средняя</Russian>
                 <Ukrainian>Середня</Ukrainian>
                 <Korean>중부 (Middle)</Korean>
+                <Spanish>Medio</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_Lower">
                 <English>Lower</English>
@@ -2520,6 +2613,7 @@
                 <Russian>Нижняя</Russian>
                 <Ukrainian>Нижня</Ukrainian>
                 <Korean>하부 (Lower)</Korean>
+                <Spanish>nferior</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_Already">
                 <English>Patient already has IV in the %1 (%2)</English>
@@ -2530,6 +2624,7 @@
                 <Russian>У пациента уже стоит IV в %1 (%2)</Russian>
                 <Ukrainian>У пацієнта вже є IV у %1 (%2)</Ukrainian>
                 <Korean>환자는 이미 %1(%2)에 IV가 있음</Korean>
+                <Spanish>Paciente ya tiene una IV en %1 (%2)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_Blocked_PressureCuff">
                 <English>IV placement blocked by applied pressure cuff</English>
@@ -2547,6 +2642,7 @@
                 <Russian>У пациента уже стоит IO в %1</Russian>
                 <Ukrainian>У пацієнта вже є IO у %1</Ukrainian>
                 <Korean>환자는 이미 %1에 IO가 있음 </Korean>
+                <Spanish>Paciente ya tiene IO en el %1</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_FailedToLocateVein">
                 <English>Failed to locate vein</English>
@@ -2557,6 +2653,7 @@
                 <Russian>Не удалось найти вену</Russian>
                 <Ukrainian>Не вдалося знайти вену</Ukrainian>
                 <Korean>정맥을 찾지 못함 </Korean>
+                <Spanish>Fallado en localizar una vena</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_IV_BodyPartTooDamaged">
                 <English>Body part too damaged</English>
@@ -2567,6 +2664,7 @@
                 <Russian>Часть тела слишком повреждена</Russian>
                 <Ukrainian>Частина тіла надто ушкоджена</Ukrainian>
                 <Korean>해당 부위 손상이 심함</Korean>
+                <Spanish>Parte del cuerpo muy danada</Spanish>
             </Key>
         </Container>
         <Container name="// Inspect IV Action //">
@@ -2579,6 +2677,7 @@
                 <Russian>Осмотреть катетер IV (верх)</Russian>
                 <Ukrainian>Оглянути катетер IV (верх)</Ukrainian>
                 <Korean>IV 카테터 검사 (상부) </Korean>
+                <Spanish>Inspecionar cateter IV (superior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_Middle">
                 <English>Inspect IV Catheter (Middle)</English>
@@ -2589,6 +2688,7 @@
                 <Russian>Осмотреть катетер IV (середина)</Russian>
                 <Ukrainian>Оглянути катетер IV (середина)</Ukrainian>
                 <Korean>IV 카테터 검사 (중부) </Korean>
+                <Spanish>Insepecionar cateter IV (medio)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_Lower">
                 <English>Inspect IV Catheter (Lower)</English>
@@ -2599,6 +2699,7 @@
                 <Russian>Осмотреть катетер IV (низ)</Russian>
                 <Ukrainian>Оглянути катетер IV (низ)</Ukrainian>
                 <Korean>IV 카테터 검사 (하부) </Korean>
+                <Spanish>Inspecionar cateter IV (Inferior)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_Progress">
                 <English>Inspecting IV Catheter...</English>
@@ -2609,6 +2710,7 @@
                 <Russian>Осмотр катетера IV...</Russian>
                 <Ukrainian>Огляд катетера IV...</Ukrainian>
                 <Korean>IV 카테터 검사 중...</Korean>
+                <Spanish>Inspecionando catteter IV...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_Clear">
                 <English>IV Catheter is clear</English>
@@ -2619,6 +2721,7 @@
                 <Russian>Катетер IV проходим</Russian>
                 <Ukrainian>Катетер IV прохідний</Ukrainian>
                 <Korean>IV 카테터 막힘 없음 </Korean>
+                <Spanish>Cateter IV esta limpio</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_Clear_Short">
                 <English>Clear</English>
@@ -2629,6 +2732,7 @@
                 <Russian>Чисто</Russian>
                 <Ukrainian>Чисто</Ukrainian>
                 <Korean>정상 (Clear)</Korean>
+                <Spanish>Limpio</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_NormalFlow">
                 <English>IV Catheter has normal flow</English>
@@ -2639,6 +2743,7 @@
                 <Russian>У катетера IV нормальный поток</Russian>
                 <Ukrainian>У катетера IV нормальний потік</Ukrainian>
                 <Korean>IV 카테터 정상 유속 (Normal flow)</Korean>
+                <Spanish>Cateter IV tiene flujo normal</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_NormalFlow_Short">
                 <English>Normal flow</English>
@@ -2649,6 +2754,7 @@
                 <Russian>Нормальный поток</Russian>
                 <Ukrainian>Нормальний потік</Ukrainian>
                 <Korean>정상 유속 (Normal flow)</Korean>
+                <Spanish>Flijo normal</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_NoFlow">
                 <English>IV Catheter has no flow</English>
@@ -2659,6 +2765,7 @@
                 <Russian>У катетера IV нет потока</Russian>
                 <Ukrainian>У катетера IV немає потоку</Ukrainian>
                 <Korean>IV 카테터 유속 없음 (no flow)</Korean>
+                <Spanish>Cateter IV no tiene flujo</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_NoFlow_Short">
                 <English>No flow</English>
@@ -2669,6 +2776,7 @@
                 <Russian>Нет потока</Russian>
                 <Ukrainian>Немає потоку</Ukrainian>
                 <Korean>유속 없음 (No flow)</Korean>
+                <Spanish>No flujo</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_Swelling">
                 <English>Swelling on insertion site</English>
@@ -2679,6 +2787,7 @@
                 <Russian>Отёк в месте установки</Russian>
                 <Ukrainian>Набряк у місці встановлення</Ukrainian>
                 <Korean>삽입 부위 부종 (Swelling on insertion site)</Korean>
+                <Spanish>Inchazon en la zona de insertacion</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_Swelling_Short">
                 <English>noticable swelling</English>
@@ -2689,6 +2798,7 @@
                 <Russian>заметный отёк</Russian>
                 <Ukrainian>помітний набряк</Ukrainian>
                 <Korean>뚜렷한 부종 (noticable swelling)</Korean>
+                <Spanish>Incazon notabe</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_InspectIV_ActionLog">
                 <English>%1 inspected IV Catheter (%2): %3</English>
@@ -2699,6 +2809,7 @@
                 <Russian>%1 осмотрел катетер IV (%2): %3</Russian>
                 <Ukrainian>%1 оглянув катетер IV (%2): %3</Ukrainian>
                 <Korean>%1이 IV 카테터(%2) 검사: %3</Korean>
+                <Spanish>%1 inspeciono catteter (%2) %3</Spanish>
             </Key>
         </Container>
         <Container name="// Pressure Cuff Action //">
@@ -2730,6 +2841,7 @@
                 <Russian>Утилизировать</Russian>
                 <Ukrainian>Утилізувати</Ukrainian>
                 <Korean>폐기</Korean>
+                <Spanish>Descartar</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_Discard_Complete">
                 <English>Discarded syringe contents</English>
@@ -2780,6 +2892,7 @@
                 <Russian>Ввести %1 (%2)</Russian>
                 <Ukrainian>Ввести %1 (%2)</Ukrainian>
                 <Korean>%1 푸시 (%2) </Korean>
+                <Spanish>Injectar (IV) %1 (%2)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_Pushing">
                 <English>Pushing %1...</English>
@@ -2790,6 +2903,7 @@
                 <Russian>Введение %1...</Russian>
                 <Ukrainian>Введення %1...</Ukrainian>
                 <Korean>%1 푸시 중... </Korean>
+                <Spanish>Injectando %1...</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_Inject">
                 <English>Inject %1 (%2)</English>
@@ -2800,6 +2914,7 @@
                 <Russian>Инъекция %1 (%2)</Russian>
                 <Ukrainian>Інʼєкція %1 (%2)</Ukrainian>
                 <Korean>%1 주입 (%2) </Korean>
+                <Spanish>Injectar (IM) %1 (%2)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_Injecting">
                 <English>Injecting %1...</English>
@@ -2810,6 +2925,7 @@
                 <Russian>Выполняется инъекция %1...</Russian>
                 <Ukrainian>Виконується інʼєкція %1...</Ukrainian>
                 <Korean>%1 주입 중... </Korean>
+                <Spanish>Injectando %1</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_Drawing">
                 <English>Drawing %1...</English>
@@ -2857,6 +2973,7 @@
                 <Russian>Введено (IM)</Russian>
                 <Ukrainian>Введено (IM)</Ukrainian>
                 <Korean>주입 완료 </Korean>
+                <Spanish>Injectado (IV)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_Pushed">
                 <English>Pushed</English>
@@ -2867,6 +2984,7 @@
                 <Russian>Введено (IV/IO)</Russian>
                 <Ukrainian>Введено (IV/IO)</Ukrainian>
                 <Korean>푸시 완료</Korean>
+                <Spanish>Injectado (IM)</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Syringe_DrawPush">
                 <English>Draw &amp; Push</English>
@@ -2909,6 +3027,7 @@
                 <Russian>Открыть монитор</Russian>
                 <Ukrainian>Відкрити монітор</Ukrainian>
                 <Korean>모니터 보기</Korean>
+                <Spanish>Ver monitor</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_ViewMonitor">
                 <English>View AED Monitor</English>
@@ -2919,6 +3038,7 @@
                 <Russian>Открыть монитор AED</Russian>
                 <Ukrainian>Відкрити монітор AED</Ukrainian>
                 <Korean>AED 모니터 보기</Korean>
+                <Spanish>Ver monitor DEA</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_ApplyPads">
                 <English>Apply AED Pads</English>
@@ -3089,6 +3209,7 @@
                 <Russian>Анализ ритма</Russian>
                 <Ukrainian>Аналіз ритму</Ukrainian>
                 <Korean>리듬 분석</Korean>
+                <Spanish>Anaizar ridmo</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_ManualCharge">
                 <English>Charge AED</English>
@@ -3099,6 +3220,7 @@
                 <Russian>Зарядить AED</Russian>
                 <Ukrainian>Зарядити AED</Ukrainian>
                 <Korean>AED 충전</Korean>
+                <Spanish>Cargar DEA</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_Shock">
                 <English>Administer Shock</English>
@@ -3109,6 +3231,7 @@
                 <Russian>Подать разряд</Russian>
                 <Ukrainian>Подати розряд</Ukrainian>
                 <Korean>전기 충격 시행</Korean>
+                <Spanish>Administrar descarga</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_CancelCharge">
                 <English>Cancel Charge</English>
@@ -3119,6 +3242,7 @@
                 <Russian>Отменить заряд</Russian>
                 <Ukrainian>Скасувати заряд</Ukrainian>
                 <Korean>충전 취소</Korean>
+                <Spanish>Cancelar descarga</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_MeasureBP">
                 <English>Measure Blood Pressure (AED)</English>
@@ -3231,6 +3355,7 @@
                 <Russian>SpO2</Russian>
                 <Ukrainian>SpO2</Ukrainian>
                 <Korean>SpO2</Korean>
+                <Spanish>Sp02</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_Monitor_CO2">
                 <English>CO2</English>
@@ -3241,6 +3366,7 @@
                 <Russian>CO2</Russian>
                 <Ukrainian>CO2</Ukrainian>
                 <Korean>CO2</Korean>
+                <Spanish>CO2</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_Monitor_NIBP">
                 <English>NIBP</English>
@@ -3291,6 +3417,7 @@
                 <Russian>Анализ ритма</Russian>
                 <Ukrainian>Аналіз ритму</Ukrainian>
                 <Korean>리듬 분석</Korean>
+                <Spanish>Analisar ridmo</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_Monitor_Button_NIBP">
                 <English>Measure NIBP</English>
@@ -3311,6 +3438,7 @@
                 <Russian>Переключение оповещений</Russian>
                 <Ukrainian>Перемикання сповіщень</Ukrainian>
                 <Korean>알람 전환 </Korean>
+                <Spanish>Alternar alarmas</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_AED_Monitor_Button_Charge">
                 <English>Manual Charge</English>
@@ -3472,6 +3600,7 @@
                 <Russian>Кровь</Russian>
                 <Ukrainian>Кров</Ukrainian>
                 <Korean>혈액</Korean>
+                <Spanish>Sangre</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_FreshBlood">
                 <English>Fresh Blood</English>
@@ -3479,6 +3608,7 @@
                 <Russian>Свежая кровь</Russian>
                 <Ukrainian>Свіжа кров</Ukrainian>
                 <Korean>신선 혈액</Korean>
+                <Spanish>Sangre fresca</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Common_SwitchTargetInventory">
                 <English>Change target inventory</English>
@@ -3499,6 +3629,7 @@
                 <Russian>Доступно: %1</Russian>
                 <Ukrainian>Доступно: %1</Ukrainian>
                 <Korean>%1 사용 가능</Korean>
+                <Spanish>%1 Disponivles</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Common_InventoryTarget">
                 <English>Target: %1</English>
@@ -3519,6 +3650,7 @@
                 <Russian>Я</Russian>
                 <Ukrainian>Я</Ukrainian>
                 <Korean>자신</Korean>
+                <Spanish>Propio</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Common_Patient">
                 <English>Patient</English>
@@ -3529,6 +3661,7 @@
                 <Russian>Пациент</Russian>
                 <Ukrainian>Пацієнт</Ukrainian>
                 <Korean>환자 </Korean>
+                <Spanish>Paciente</Spanish>
             </Key>
             <Key ID="STR_ACM_Circulation_Common_Vehicle">
                 <English>Vehicle</English>
@@ -3539,6 +3672,7 @@
                 <Russian>Транспорт</Russian>
                 <Ukrainian>Транспорт</Ukrainian>
                 <Korean>차량</Korean>
+                <Spanish>Veiulo</Spanish>
             </Key>
         </Container>
     </Package>

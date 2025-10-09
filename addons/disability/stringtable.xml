@@ -10,6 +10,7 @@
             <Russian>ACM: Травмы</Russian>
             <Ukrainian>ACM: Травми</Ukrainian>
             <Korean>ACM: 장애 (Disability)</Korean>
+            <Spanish>ACM: Deshabilidades</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_Category_FractureManagement">
             <English>Fracture Management</English>
@@ -17,6 +18,7 @@
             <Russian>Лечение переломов</Russian>
             <Ukrainian>Лікування переломів</Ukrainian>
             <Korean>골절 관리</Korean>
+            <Spanish>Manejo de fraacturas</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_TourniquetImpactLimbs">
             <English>Tourniquet Impact Limbs</English>
@@ -26,6 +28,7 @@
             <Russian>Влияние жгута на конечности</Russian>
             <Ukrainian>Вплив турнікету на кінцівки</Ukrainian>
             <Korean>지혈대 영향 받는 팔다리</Korean>
+            <Spanish>Torniquetes impactas en las extremidades</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_TourniquetImpactLimbs_Desc">
             <English>Sets whether tourniquet will impact arms by increasing sway and legs by reducing mobility</English>
@@ -35,6 +38,7 @@
             <Russian>Задаёт, будет ли жгут влиять на руки (увеличение дрожания) и ноги (снижение подвижности)</Russian>
             <Ukrainian>Визначає, чи буде турнікет впливати на руки (збільшення тремтіння) та ноги (зменшення рухливості)</Ukrainian>
             <Korean>지혈대가 팔에는 흔들림을 증가시키고 다리에는 이동성을 감소시킬지 설정</Korean>
+            <Spanish>Define si un torniquete afectara a los brazos, aumentando la oscilacion de la amra, en las piernas, limitnado la moilidad</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_EnableFractureSeverity">
             <English>Enable Fracture Severity</English>
@@ -42,6 +46,7 @@
             <Russian>Включить степень тяжести перелома</Russian>
             <Ukrainian>Увімкнути ступінь тяжкості перелому</Ukrainian>
             <Korean>골절 심각도 활성화</Korean>
+            <Spanish>Habilitar gravedad de fractra</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_EnableFractureSeverity_Desc">
             <English>Enables fracture severity and performing fracture realignment</English>
@@ -49,6 +54,7 @@
             <Russian>Включает учёт тяжести переломов и выполнение репозиции</Russian>
             <Ukrainian>Вмикає врахування тяжкості переломів та виконання репозиції</Ukrainian>
             <Korean>골절 심각도 활성화 및 골절 정렬 수행 가능</Korean>
+            <Spanish>Habilita la gravedad de gracturas y realizar realinamiento de fracturas</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_TreatmentTime_SAMSplint">
             <English>SAM Splint Time</English>
@@ -59,6 +65,7 @@
             <Russian>Время наложения шины SAM</Russian>
             <Ukrainian>Час накладання шини SAM</Ukrainian>
             <Korean>SAM 부목 적용 시간</Korean>
+            <Spanish>Tiempo para apliar ferula SAM</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_TreatmentTime_SAMSplint_Desc">
             <English>Time to apply SAM Splint</English>
@@ -162,6 +169,7 @@
                 <Russian>Универсальная шина</Russian>
                 <Ukrainian>Універсальна шина</Ukrainian>
                 <Korean>범용 부목</Korean>
+                <Spanish>Ferula universal</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_UniversalSplint_Desc">
                 <English>Single-use splint kit used to immobilize fracture</English>
@@ -172,6 +180,7 @@
                 <Russian>Одноразовый набор для фиксации перелома</Russian>
                 <Ukrainian>Одноразовий набір для фіксації перелому</Ukrainian>
                 <Korean>단회용 부목 키트</Korean>
+                <Spanish>Kit de unico uso para inmovilicar las fracturas</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_SAMSplint">
                 <English>SAM Splint</English>
@@ -182,6 +191,7 @@
                 <Russian>Шина SAM</Russian>
                 <Ukrainian>Шина SAM</Ukrainian>
                 <Korean>SAM 부목</Korean>
+                <Spanish>Ferula SAM</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_SAMSplint_Desc">
                 <English>Re-usable splint used to immobilize fracture, should be wrapped to keep fracture stable</English>
@@ -192,6 +202,7 @@
                 <Russian>Многоразовая шина для фиксации перелома, должна быть обмотана для стабильности</Russian>
                 <Ukrainian>Багаторазова шина для фіксації перелому, має бути обмотана для стабільності</Ukrainian>
                 <Korean>재사용 가능한 부목으로 골절을 고정함, 안정성을 위해 탄성 붕대로 감아야 함 </Korean>
+                <Spanish>Ferula re-usable para inmobilizar fracturas, deve ser envuelta para mantener la fractura estable</Spanish>
             </Key>
         </Container>
         <Container name="// Splint Actions //">
@@ -204,6 +215,7 @@
                 <Russian>Наложить шину SAM</Russian>
                 <Ukrainian>Накласти шину SAM</Ukrainian>
                 <Korean>SAM 부목 적용</Korean>
+                <Spanish>Aplicar ferula SAM</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_ApplySAMSplint_Progress">
                 <English>Applying SAM Splint...</English>
@@ -214,6 +226,7 @@
                 <Russian>Наложение шины SAM...</Russian>
                 <Ukrainian>Накладання шини SAM...</Ukrainian>
                 <Korean>SAM 부목 적용 중...</Korean>
+                <Spanish>Aplicando ferula SAM...</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_RemoveSAMSplint">
                 <English>Remove SAM Splint</English>
@@ -224,6 +237,7 @@
                 <Russian>Снять шину SAM</Russian>
                 <Ukrainian>Зняти шину SAM</Ukrainian>
                 <Korean>SAM 부목 제거</Korean>
+                <Spanish>Quitar ferula SAM</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_RemoveSAMSplint_Progress">
                 <English>Removing SAM Splint...</English>
@@ -234,6 +248,7 @@
                 <Russian>Снятие шины SAM...</Russian>
                 <Ukrainian>Зняття шини SAM...</Ukrainian>
                 <Korean>SAM 부목 제거 중...</Korean>
+                <Spanish>Quitando ferula SAM...</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_RemoveSplint_ActionLog">
                 <English>%1 removed splint</English>
@@ -244,6 +259,7 @@
                 <Russian>%1 снял(а) шину</Russian>
                 <Ukrainian>%1 зняв(ла) шину</Ukrainian>
                 <Korean>%1이 부목을 제거했습니다</Korean>
+                <Spanish>%1 quito ferula</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_Splint_FellOff">
                 <English>Splint has fallen off</English>
@@ -254,6 +270,7 @@
                 <Russian>Шина спала</Russian>
                 <Ukrainian>Шина спала</Ukrainian>
                 <Korean>부목이 떨어졌습니다</Korean>
+                <Spanish>Ferulo se a caido</Spanish>
             </Key>
         </Container>
         <Container name="// Wrap SAM Splint Action //">
@@ -266,6 +283,7 @@
                 <Russian>Обмотать шину SAM</Russian>
                 <Ukrainian>Обмотати шину SAM</Ukrainian>
                 <Korean>SAM 부목 감기</Korean>
+                <Spanish>Envolver ferula SAM</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_WrapSplint_ActionLog">
                 <English>%1 has wrapped SAM Splint</English>
@@ -276,6 +294,7 @@
                 <Russian>%1 обмотал(а) шину SAM</Russian>
                 <Ukrainian>%1 обмотав(ла) шину SAM</Ukrainian>
                 <Korean>%1이 SAM 부목을 탄성 붕대로 감았습니다</Korean>
+                <Spanish>%1 a envuelto la ferula SAM</Spanish>
             </Key>
         </Container>
         <Container name="// Patient WakeUp Actions //">
@@ -288,6 +307,7 @@
                 <Russian>Пациент проснулся</Russian>
                 <Ukrainian>Пацієнт прокинувся</Ukrainian>
                 <Korean>환자가 깨어났습니다</Korean>
+                <Spanish>Paciente se a levantado</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_AttemptWakeUp_Failure">
                 <English>Patient is still asleep</English>
@@ -298,6 +318,7 @@
                 <Russian>Пациент всё ещё без сознания</Russian>
                 <Ukrainian>Пацієнт досі без свідомості</Ukrainian>
                 <Korean>환자가 아직 잠들어 있습니다</Korean>
+                <Spanish>Paciente sigue inconciente</Spanish>
             </Key>
         </Container>
         <Container name="// Shake Patient Action //">
@@ -362,6 +383,7 @@
                 <Russian>Попытка разбудить пощёчиной</Russian>
                 <Ukrainian>Спроба розбудити ляпасом</Ukrainian>
                 <Korean>때려서 깨우기 시도</Korean>
+                <Spanish>Intentar levantar paciente abofetenado</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_SlapAwake_Progress">
                 <English>Slapping Patient...</English>
@@ -372,6 +394,7 @@
                 <Russian>Пощёчина пациенту...</Russian>
                 <Ukrainian>Ляпас пацієнту...</Ukrainian>
                 <Korean>환자를 때리는 중...</Korean>
+                <Spanish>Abofeteando paciente...</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_SlapPatient_ActionLog">
                 <English>%1 slapped the patient</English>
@@ -382,6 +405,7 @@
                 <Russian>%1 дал(а) пощёчину пациенту</Russian>
                 <Ukrainian>%1 дав(ла) ляпас пацієнту</Ukrainian>
                 <Korean>%1이 환자를 때렸습니다</Korean>
+                <Spanish>%1 abofeteo el paciente</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_SlapPatient_Complete">
                 <English>You slap the patient&lt;br/&gt;%1</English>
@@ -392,6 +416,7 @@
                 <Russian>Вы дали пощёчину пациенту&lt;br/&gt;%1</Russian>
                 <Ukrainian>Ви дали ляпас пацієнту&lt;br/&gt;%1</Ukrainian>
                 <Korean>당신이 환자를 때립니다&lt;br/&gt;%1</Korean>
+                <Spanish>Yo Aabofete al paciente&lt;br/&gt; %1</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_SlapPatient_Attempt">
                 <English>You attempt to slap the patient awake&lt;br/&gt;%1</English>
@@ -402,6 +427,7 @@
                 <Russian>Вы пытаетесь разбудить пациента пощёчиной&lt;br/&gt;%1</Russian>
                 <Ukrainian>Ви намагаєтесь розбудити пацієнта ляпасом&lt;br/&gt;%1</Ukrainian>
                 <Korean>당신이 환자를 때려 깨우려 합니다&lt;br/&gt;%1</Korean>
+                <Spanish>Yo intente abofetear al paciente para levantarlo &lt;br/&gt; %1</Spanish>
             </Key>
         </Container>
         <Container name="// Inspect For Fracture Action //">
@@ -412,6 +438,7 @@
                 <Russian>Осмотреть на перелом</Russian>
                 <Ukrainian>Оглянути на перелом</Ukrainian>
                 <Korean>골절 검사</Korean>
+                <Spanish>Inspecionar para fracturas</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_InspectForFracture_Progress">
                 <English>Inspecting limb for fracture...</English>
@@ -420,6 +447,7 @@
                 <Russian>Осмотр конечности на перелом...</Russian>
                 <Ukrainian>Огляд кінцівки на перелом...</Ukrainian>
                 <Korean>팔다리 골절 검사 중... </Korean>
+                <Spanish>Inspecionando extremidad ppor fracturas</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_InspectForFracture_ActionLog">
                 <English>%1 inspected %2: %3</English>
@@ -428,6 +456,7 @@
                 <Russian>%1 осмотрел(а) %2: %3</Russian>
                 <Ukrainian>%1 оглянув(ла) %2: %3</Ukrainian>
                 <Korean>%1이 %2를 검사했습니다: %3</Korean>
+                <Spanish>%1 inspeciona %2: %3</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_InspectForFracture_SplintApplied">
                 <English>Patient has splint applied to limb</English>
@@ -436,6 +465,7 @@
                 <Russian>На конечность пациента наложена шина</Russian>
                 <Ukrainian>На кінцівку пацієнта накладена шина</Ukrainian>
                 <Korean>환자의 팔다리에 부목이 적용되었습니다</Korean>
+                <Spanish>Paciente tiene ferula en la extremidad</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_InspectForFracture_SplintApplied_Short">
                 <English>Splinted</English>
@@ -444,6 +474,7 @@
                 <Russian>Зафиксировано шиной</Russian>
                 <Ukrainian>Зафіксовано шиною</Ukrainian>
                 <Korean>부목 적용됨</Korean>
+                <Spanish>Inmobilizado</Spanish>
             </Key>
             <Key ID="STR_ACM_Disability_InspectForFracture_SignificantSwelling">
                 <English>Patient has significant swelling on limb</English>

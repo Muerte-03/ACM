@@ -10,6 +10,7 @@
             <Russian>ACM: Повреждения</Russian>
             <Ukrainian>ACM: Ураження</Ukrainian>
             <Korean>ACM: 데미지</Korean>
+            <Spanish>ACM: Dano</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_Category_Thresholds">
             <English>Thresholds</English>
